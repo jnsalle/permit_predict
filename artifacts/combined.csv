@@ -1,0 +1,1124 @@
+permit_type,permit_subtype,permit_street_address,permit_lot_size,contractor,contractor_address,submitted_date,issued_date,inspector
+Maintenance,Mechanical,76468 Jennifer Row Apt. 295,1.06 acres,Mercado and Sons,8410 Katie Heights Flats,1546300800,1547164800,Brian Ochoa
+Building,New Construction,1632 Ryan Center,0.95 acres,Blair-Williams,2618 Marshall Summit Passage,1546300800,1546819200,Brian Ochoa
+Maintenance,Electrical,977 Guerrero Expressway,1.59 acres,Roth-Garcia,5547 Schroeder Glens Courts,1546387200,1547078400,Lauren Ayala
+Building,Rennovation,79220 Ingram Stream Apt. 725,1.46 acres,Mercado and Sons,8410 Katie Heights Flats,1546387200,1548374400,Lauren Ayala
+Maintenance,Plumbing,84900 Julie Turnpike Apt. 793,1.05 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1546387200,1547251200,Edward Woods
+Building,Rennovation,55409 Caitlin Coves Apt. 221,0.91 acres,Roth-Garcia,5547 Schroeder Glens Courts,1546473600,1548115200,Brian Ochoa
+Maintenance,Electrical,80248 Evans Isle Suite 875,2.3 acres,Mercado and Sons,8410 Katie Heights Flats,1546473600,1547337600,Lauren Ayala
+Maintenance,Plumbing,2209 Amanda Cape Apt. 691,0.94 acres,Mercado and Sons,8410 Katie Heights Flats,1546560000,1547510400,Stephanie White
+Maintenance,Electrical,20694 Robert Cape,0.8 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1546646400,1547164800,Brian Ochoa
+Maintenance,Electrical,44526 William Crossing,1.39 acres,Mercado and Sons,8410 Katie Heights Flats,1546646400,1547424000,Lauren Ayala
+Building,New Construction,399 Ashley Overpass Suite 012,0.75 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1546646400,1547078400,Lauren Ayala
+Building,Rennovation,0639 Miranda Lodge Apt. 347,1.05 acres,Quinn Inc,7398 Young Meadow Falls,1546646400,1548892800,Lauren Ayala
+Maintenance,Plumbing,78275 Becker Ridges,1.18 acres,Mercado and Sons,8410 Katie Heights Flats,1546732800,1547683200,Stephanie White
+Building,New Construction,71713 James Track,1.21 acres,Quinn Inc,7398 Young Meadow Falls,1546732800,1547596800,Edward Woods
+Maintenance,Mechanical,18524 Jason Islands Suite 780,0.54 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1546732800,1547337600,Lauren Ayala
+Building,Rennovation,2342 Johnson Landing,0.51 acres,Lucero-Rich,6977 Ward Glens Dale,1546732800,1548633600,Edward Woods
+Maintenance,Electrical,45566 Melissa Tunnel Suite 387,1.83 acres,Lucero-Rich,6977 Ward Glens Dale,1546819200,1547769600,Stephanie White
+Maintenance,Mechanical,395 Moore Circles,0.39 acres,Reese Ltd,2506 Johnson Garden Run,1546819200,1547424000,Lauren Ayala
+Building,Rennovation,6038 Ayala Harbors,1.05 acres,Blair-Williams,2618 Marshall Summit Passage,1546905600,1549152000,Edward Woods
+Building,Rennovation,00234 Silva Fort,1.14 acres,Lucero-Rich,6977 Ward Glens Dale,1546905600,1548979200,Edward Woods
+Building,New Construction,609 Brooke Harbors Suite 671,1.78 acres,Bray Ltd,6147 Amanda Center Pines,1546905600,1547856000,Stephanie White
+Maintenance,Mechanical,50585 Scott Plains Apt. 061,0.66 acres,Bray Ltd,6147 Amanda Center Pines,1546992000,1547683200,Brian Ochoa
+Maintenance,Plumbing,330 Todd Shore,0.55 acres,Roth-Garcia,5547 Schroeder Glens Courts,1546992000,1547510400,Edward Woods
+Building,Rennovation,0383 Daugherty Squares,2.22 acres,Mercado and Sons,8410 Katie Heights Flats,1546992000,1549238400,Lauren Ayala
+Building,New Construction,78316 Espinoza Mountain Apt. 756,0.69 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1546992000,1547337600,Brian Ochoa
+Maintenance,Plumbing,936 Walsh Hollow,0.59 acres,Quinn Inc,7398 Young Meadow Falls,1547078400,1547769600,Stephanie White
+Maintenance,Mechanical,119 Stone Island,0.93 acres,Blair-Williams,2618 Marshall Summit Passage,1547078400,1547596800,Brian Ochoa
+Building,Rennovation,601 James Orchard Suite 531,0.93 acres,Lawson Group,5562 Deleon Isle Expressway,1547164800,1549065600,Edward Woods
+Maintenance,Plumbing,1263 Buckley Terrace,1.3 acres,Mercado and Sons,8410 Katie Heights Flats,1547164800,1547856000,Lauren Ayala
+Building,New Construction,10716 Dominguez Lakes Suite 765,0.83 acres,Blair-Williams,2618 Marshall Summit Passage,1547164800,1547942400,Stephanie White
+Maintenance,Plumbing,27278 Cowan Dale,0.82 acres,Lawson Group,5562 Deleon Isle Expressway,1547164800,1547596800,Edward Woods
+Maintenance,Mechanical,08487 Daniel Circles Suite 048,1.36 acres,Reese Ltd,2506 Johnson Garden Run,1547164800,1547942400,Brian Ochoa
+Building,New Construction,707 Mark Pines Suite 949,0.84 acres,Lawson Group,5562 Deleon Isle Expressway,1547164800,1547683200,Brian Ochoa
+Maintenance,Plumbing,83504 Austin Green Apt. 103,1.96 acres,Bray Ltd,6147 Amanda Center Pines,1547164800,1548288000,Stephanie White
+Maintenance,Electrical,6237 Kimberly Trail,1.12 acres,Mercado and Sons,8410 Katie Heights Flats,1547251200,1548115200,Stephanie White
+Building,Rennovation,88531 Stone Fort Suite 558,1.17 acres,Quinn Inc,7398 Young Meadow Falls,1547251200,1549152000,Brian Ochoa
+Building,New Construction,26232 Caitlin Loop,0.91 acres,Reese Ltd,2506 Johnson Garden Run,1547251200,1547769600,Edward Woods
+Building,New Construction,1164 Kimberly Turnpike,1.0 acres,Quinn Inc,7398 Young Meadow Falls,1547337600,1548115200,Stephanie White
+Maintenance,Mechanical,1625 Roberts Locks,1.65 acres,Quinn Inc,7398 Young Meadow Falls,1547337600,1548028800,Brian Ochoa
+Building,New Construction,7251 Richard Shore,1.44 acres,Quinn Inc,7398 Young Meadow Falls,1547337600,1548028800,Brian Ochoa
+Maintenance,Mechanical,302 Mathis Point,1.01 acres,Bray Ltd,6147 Amanda Center Pines,1547337600,1548028800,Brian Ochoa
+Building,New Construction,3274 Michael Bypass,1.09 acres,Mercado and Sons,8410 Katie Heights Flats,1547337600,1548115200,Lauren Ayala
+Building,Rennovation,497 White Junction Apt. 859,1.28 acres,Lawson Group,5562 Deleon Isle Expressway,1547337600,1549152000,Brian Ochoa
+Building,Rennovation,967 Velazquez Islands Suite 989,0.44 acres,Roth-Garcia,5547 Schroeder Glens Courts,1547424000,1549324800,Brian Ochoa
+Building,Rennovation,29157 Elizabeth Shoals Apt. 855,1.2 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1547510400,1549756800,Stephanie White
+Maintenance,Electrical,7959 Carrillo Keys,0.91 acres,Blair-Williams,2618 Marshall Summit Passage,1547596800,1548374400,Stephanie White
+Maintenance,Electrical,98486 Little Parks Apt. 331,0.71 acres,Blair-Williams,2618 Marshall Summit Passage,1547596800,1548115200,Brian Ochoa
+Maintenance,Electrical,0788 Williams Lane Suite 457,1.68 acres,Mercado and Sons,8410 Katie Heights Flats,1547683200,1548633600,Stephanie White
+Maintenance,Mechanical,92701 Molly Trail,1.19 acres,Lawson Group,5562 Deleon Isle Expressway,1547683200,1548288000,Brian Ochoa
+Building,New Construction,211 Rachel Coves Apt. 173,0.81 acres,Lawson Group,5562 Deleon Isle Expressway,1547769600,1548201600,Brian Ochoa
+Maintenance,Mechanical,9778 Cathy Shores Apt. 567,1.14 acres,Blair-Williams,2618 Marshall Summit Passage,1547769600,1548374400,Brian Ochoa
+Maintenance,Electrical,493 Clayton Mountain Apt. 781,0.83 acres,Bray Ltd,6147 Amanda Center Pines,1547856000,1548374400,Lauren Ayala
+Building,New Construction,8201 Silva Shoal,2.1 acres,Lucero-Rich,6977 Ward Glens Dale,1547856000,1548806400,Lauren Ayala
+Building,Rennovation,7408 Rodriguez Greens,1.59 acres,Lucero-Rich,6977 Ward Glens Dale,1547942400,1550016000,Lauren Ayala
+Building,Rennovation,793 Melissa Plains Apt. 659,1.36 acres,Blair-Williams,2618 Marshall Summit Passage,1547942400,1549843200,Edward Woods
+Maintenance,Mechanical,5550 Katelyn Loaf Suite 553,1.68 acres,Lawson Group,5562 Deleon Isle Expressway,1547942400,1548720000,Lauren Ayala
+Building,New Construction,94962 Porter Stravenue Apt. 589,2.2 acres,Blair-Williams,2618 Marshall Summit Passage,1547942400,1549152000,Stephanie White
+Maintenance,Plumbing,0790 William Fords Apt. 763,0.6 acres,Mercado and Sons,8410 Katie Heights Flats,1547942400,1548633600,Edward Woods
+Maintenance,Electrical,7809 Craig Glens,1.21 acres,Reese Ltd,2506 Johnson Garden Run,1547942400,1548720000,Lauren Ayala
+Maintenance,Electrical,650 Steven Mountains Apt. 598,1.48 acres,Blair-Williams,2618 Marshall Summit Passage,1548028800,1548720000,Brian Ochoa
+Maintenance,Mechanical,97206 Diana Path Suite 197,0.83 acres,Blair-Williams,2618 Marshall Summit Passage,1548115200,1548979200,Stephanie White
+Building,Rennovation,3904 Douglas Wall Apt. 896,1.55 acres,Bray Ltd,6147 Amanda Center Pines,1548115200,1550188800,Edward Woods
+Building,New Construction,335 Tara Meadow,0.71 acres,Reese Ltd,2506 Johnson Garden Run,1548115200,1548720000,Lauren Ayala
+Building,Rennovation,7029 Brown Lights Apt. 075,0.96 acres,Quinn Inc,7398 Young Meadow Falls,1548115200,1549756800,Lauren Ayala
+Building,Rennovation,017 Gutierrez Causeway,0.83 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548201600,1550102400,Edward Woods
+Maintenance,Mechanical,05398 Elizabeth Ridge,0.68 acres,Quinn Inc,7398 Young Meadow Falls,1548201600,1548720000,Lauren Ayala
+Maintenance,Electrical,13018 Barron Shoals Suite 427,0.62 acres,Mercado and Sons,8410 Katie Heights Flats,1548288000,1548892800,Edward Woods
+Building,Rennovation,424 Jessica Corners Apt. 663,0.49 acres,Mercado and Sons,8410 Katie Heights Flats,1548460800,1550361600,Lauren Ayala
+Maintenance,Electrical,42520 Beck Via,1.46 acres,Reese Ltd,2506 Johnson Garden Run,1548460800,1549324800,Edward Woods
+Building,New Construction,1841 Hunt Landing,0.96 acres,Blair-Williams,2618 Marshall Summit Passage,1548460800,1548979200,Edward Woods
+Maintenance,Plumbing,697 Karen Motorway,0.87 acres,Quinn Inc,7398 Young Meadow Falls,1548460800,1549152000,Lauren Ayala
+Building,New Construction,93594 Sims Grove,1.0 acres,Quinn Inc,7398 Young Meadow Falls,1548460800,1548892800,Brian Ochoa
+Building,Rennovation,324 Benitez Stream,1.69 acres,Reese Ltd,2506 Johnson Garden Run,1548460800,1550534400,Lauren Ayala
+Maintenance,Mechanical,896 Austin Divide,0.67 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548460800,1549065600,Lauren Ayala
+Building,New Construction,80712 Douglas Creek,0.83 acres,Lawson Group,5562 Deleon Isle Expressway,1548460800,1548979200,Brian Ochoa
+Maintenance,Plumbing,44739 Rodriguez Viaduct Suite 377,2.11 acres,Quinn Inc,7398 Young Meadow Falls,1548460800,1549324800,Edward Woods
+Maintenance,Plumbing,30720 John Shore,1.26 acres,Mercado and Sons,8410 Katie Heights Flats,1548547200,1549152000,Lauren Ayala
+Maintenance,Plumbing,2229 Knight Inlet Apt. 407,0.87 acres,Mercado and Sons,8410 Katie Heights Flats,1548547200,1549065600,Lauren Ayala
+Maintenance,Electrical,617 David Cliffs,0.81 acres,Lucero-Rich,6977 Ward Glens Dale,1548547200,1549324800,Stephanie White
+Building,Rennovation,94676 Cody Underpass Apt. 333,1.42 acres,Lawson Group,5562 Deleon Isle Expressway,1548547200,1550361600,Brian Ochoa
+Maintenance,Mechanical,0245 Thomas Keys,0.4 acres,Reese Ltd,2506 Johnson Garden Run,1548547200,1549152000,Edward Woods
+Maintenance,Electrical,362 Hansen Causeway,0.96 acres,Bray Ltd,6147 Amanda Center Pines,1548633600,1549497600,Stephanie White
+Building,New Construction,157 Diane Rest Suite 820,1.13 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1548633600,1549411200,Lauren Ayala
+Building,Rennovation,214 Pamela Centers,1.75 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548633600,1550707200,Brian Ochoa
+Maintenance,Electrical,981 Donovan Parks Suite 936,1.17 acres,Lucero-Rich,6977 Ward Glens Dale,1548633600,1549411200,Edward Woods
+Maintenance,Mechanical,16833 Steven Springs Suite 224,1.26 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548633600,1549411200,Edward Woods
+Maintenance,Plumbing,7299 Pierce Vista,0.85 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1548633600,1549497600,Stephanie White
+Building,Rennovation,23133 Brandon Dale Suite 553,0.92 acres,Reese Ltd,2506 Johnson Garden Run,1548720000,1550793600,Brian Ochoa
+Maintenance,Mechanical,6934 Powell Bridge,1.65 acres,Lawson Group,5562 Deleon Isle Expressway,1548720000,1549756800,Stephanie White
+Building,New Construction,95881 Ferguson Tunnel,0.65 acres,Quinn Inc,7398 Young Meadow Falls,1548806400,1549152000,Brian Ochoa
+Building,New Construction,41918 James Mountains,1.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1548806400,1549497600,Brian Ochoa
+Building,New Construction,200 Pena Extension,1.67 acres,Reese Ltd,2506 Johnson Garden Run,1548806400,1549497600,Brian Ochoa
+Building,Rennovation,852 Miller Glens,1.36 acres,Mercado and Sons,8410 Katie Heights Flats,1548806400,1551139200,Stephanie White
+Maintenance,Mechanical,61966 Rhonda Lock,0.96 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548806400,1549324800,Brian Ochoa
+Building,New Construction,8672 David Rapid Suite 736,0.79 acres,Reese Ltd,2506 Johnson Garden Run,1548806400,1549324800,Edward Woods
+Building,Rennovation,2731 Lewis Island,0.9 acres,Lucero-Rich,6977 Ward Glens Dale,1548806400,1550620800,Edward Woods
+Building,Rennovation,09957 David Prairie,1.65 acres,Blair-Williams,2618 Marshall Summit Passage,1548892800,1551052800,Stephanie White
+Building,Rennovation,958 Johnson Harbor,1.15 acres,Roth-Garcia,5547 Schroeder Glens Courts,1548892800,1550880000,Edward Woods
+Building,New Construction,126 Roberson Field Suite 652,0.85 acres,Blair-Williams,2618 Marshall Summit Passage,1548892800,1549756800,Stephanie White
+Building,Rennovation,43816 Barnes Station,0.96 acres,Quinn Inc,7398 Young Meadow Falls,1548892800,1550707200,Lauren Ayala
+Maintenance,Plumbing,96069 Smith Key Apt. 407,0.89 acres,Bray Ltd,6147 Amanda Center Pines,1548892800,1549324800,Brian Ochoa
+Maintenance,Mechanical,31584 Joanna Place Suite 408,1.38 acres,Mercado and Sons,8410 Katie Heights Flats,1548979200,1549929600,Edward Woods
+Building,Rennovation,7716 Compton Inlet,1.3 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1549065600,1551312000,Stephanie White
+Building,Rennovation,897 Donald Cliffs,0.98 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1549152000,1551484800,Stephanie White
+Maintenance,Plumbing,31091 Gary Turnpike,1.5 acres,Bray Ltd,6147 Amanda Center Pines,1549152000,1550102400,Stephanie White
+Maintenance,Electrical,6312 Elizabeth Radial,1.43 acres,Reese Ltd,2506 Johnson Garden Run,1549152000,1550016000,Edward Woods
+Building,New Construction,9782 Lee Mills Apt. 746,0.92 acres,Quinn Inc,7398 Young Meadow Falls,1549152000,1549584000,Edward Woods
+Maintenance,Electrical,868 Clayton Landing Apt. 258,0.58 acres,Roth-Garcia,5547 Schroeder Glens Courts,1549238400,1550102400,Stephanie White
+Maintenance,Electrical,9474 Knight Loop Apt. 188,1.19 acres,Lawson Group,5562 Deleon Isle Expressway,1549238400,1550188800,Stephanie White
+Maintenance,Plumbing,2805 Fowler Corner Suite 094,0.29 acres,Lawson Group,5562 Deleon Isle Expressway,1549238400,1549584000,Brian Ochoa
+Maintenance,Electrical,32773 Glover Course,1.44 acres,Reese Ltd,2506 Johnson Garden Run,1549238400,1550275200,Stephanie White
+Maintenance,Plumbing,758 Morales Islands,1.34 acres,Mercado and Sons,8410 Katie Heights Flats,1549238400,1549929600,Lauren Ayala
+Maintenance,Plumbing,12544 Gonzalez Locks,0.7 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1549238400,1549929600,Stephanie White
+Building,Rennovation,24397 Larry Spring,1.27 acres,Reese Ltd,2506 Johnson Garden Run,1549238400,1551398400,Lauren Ayala
+Maintenance,Electrical,4853 Collins Vista Apt. 433,0.5 acres,Lawson Group,5562 Deleon Isle Expressway,1549411200,1549929600,Brian Ochoa
+Maintenance,Mechanical,560 Luke Motorway,0.63 acres,Quinn Inc,7398 Young Meadow Falls,1549411200,1549929600,Brian Ochoa
+Maintenance,Plumbing,6618 Lisa Park,1.31 acres,Quinn Inc,7398 Young Meadow Falls,1549411200,1550275200,Stephanie White
+Maintenance,Mechanical,9956 Gross Spring,2.18 acres,Reese Ltd,2506 Johnson Garden Run,1549497600,1550880000,Stephanie White
+Maintenance,Mechanical,8719 Brown Curve,1.73 acres,Quinn Inc,7398 Young Meadow Falls,1549497600,1550275200,Lauren Ayala
+Building,New Construction,51439 Miller Route Suite 933,1.56 acres,Reese Ltd,2506 Johnson Garden Run,1549497600,1550188800,Brian Ochoa
+Maintenance,Electrical,536 Frederick Greens Apt. 815,1.28 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1549497600,1550188800,Brian Ochoa
+Building,New Construction,756 West Overpass Suite 953,0.9 acres,Reese Ltd,2506 Johnson Garden Run,1549497600,1550361600,Stephanie White
+Maintenance,Mechanical,164 Sanders Mews,1.22 acres,Roth-Garcia,5547 Schroeder Glens Courts,1549584000,1550620800,Stephanie White
+Maintenance,Mechanical,2720 Reed Centers Suite 098,0.36 acres,Reese Ltd,2506 Johnson Garden Run,1549584000,1550361600,Lauren Ayala
+Maintenance,Mechanical,3538 Carl Rapids Apt. 031,0.94 acres,Mercado and Sons,8410 Katie Heights Flats,1549584000,1550448000,Stephanie White
+Building,New Construction,877 Nichols Route,1.34 acres,Bray Ltd,6147 Amanda Center Pines,1549584000,1550361600,Edward Woods
+Maintenance,Mechanical,656 Velasquez Fords Apt. 926,0.74 acres,Lawson Group,5562 Deleon Isle Expressway,1549670400,1550361600,Brian Ochoa
+Maintenance,Plumbing,36248 Amanda Vista Suite 305,0.94 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1549670400,1550102400,Lauren Ayala
+Maintenance,Plumbing,2622 Rubio Mission,1.07 acres,Blair-Williams,2618 Marshall Summit Passage,1549756800,1550275200,Brian Ochoa
+Maintenance,Plumbing,990 Russo Valleys,1.02 acres,Reese Ltd,2506 Johnson Garden Run,1549756800,1550620800,Edward Woods
+Maintenance,Plumbing,673 King Mountain,1.44 acres,Reese Ltd,2506 Johnson Garden Run,1549756800,1550448000,Lauren Ayala
+Maintenance,Plumbing,960 Barbara Throughway,1.28 acres,Bray Ltd,6147 Amanda Center Pines,1549929600,1550448000,Brian Ochoa
+Building,Rennovation,5740 Graves Mountains,1.4 acres,Blair-Williams,2618 Marshall Summit Passage,1549929600,1551830400,Edward Woods
+Building,Rennovation,805 Jodi Extensions,1.16 acres,Bray Ltd,6147 Amanda Center Pines,1550016000,1551916800,Brian Ochoa
+Maintenance,Electrical,539 Kayla Junction,1.28 acres,Reese Ltd,2506 Johnson Garden Run,1550016000,1550707200,Brian Ochoa
+Building,Rennovation,437 Desiree Alley,1.76 acres,Bray Ltd,6147 Amanda Center Pines,1550016000,1551744000,Edward Woods
+Building,Rennovation,99083 Jones Rest,1.06 acres,Lucero-Rich,6977 Ward Glens Dale,1550016000,1551744000,Brian Ochoa
+Maintenance,Plumbing,292 Hayes Greens,1.29 acres,Roth-Garcia,5547 Schroeder Glens Courts,1550102400,1550534400,Brian Ochoa
+Maintenance,Plumbing,0747 Howard Bypass,0.78 acres,Reese Ltd,2506 Johnson Garden Run,1550102400,1550620800,Brian Ochoa
+Maintenance,Plumbing,0379 Frank Dam,0.56 acres,Bray Ltd,6147 Amanda Center Pines,1550102400,1550534400,Edward Woods
+Maintenance,Plumbing,290 Wright Ridge Apt. 438,0.88 acres,Blair-Williams,2618 Marshall Summit Passage,1550102400,1550880000,Stephanie White
+Maintenance,Electrical,19631 Cruz Station,1.87 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1550188800,1550880000,Lauren Ayala
+Building,Rennovation,354 Miller Freeway Suite 045,1.27 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1550188800,1552435200,Edward Woods
+Building,Rennovation,091 Moon Village Apt. 492,1.03 acres,Lucero-Rich,6977 Ward Glens Dale,1550188800,1552262400,Edward Woods
+Building,Rennovation,43251 Garza Via Suite 175,0.87 acres,Mercado and Sons,8410 Katie Heights Flats,1550188800,1551744000,Edward Woods
+Maintenance,Mechanical,876 Brittany Lake,0.71 acres,Lucero-Rich,6977 Ward Glens Dale,1550275200,1550793600,Brian Ochoa
+Maintenance,Electrical,6324 Jessica Villages,1.04 acres,Reese Ltd,2506 Johnson Garden Run,1550275200,1550966400,Brian Ochoa
+Building,New Construction,9570 Chen Vista,0.46 acres,Mercado and Sons,8410 Katie Heights Flats,1550275200,1550793600,Edward Woods
+Maintenance,Plumbing,62294 James Valleys,1.04 acres,Bray Ltd,6147 Amanda Center Pines,1550361600,1551312000,Stephanie White
+Building,New Construction,875 Mcclain Mission,0.96 acres,Lawson Group,5562 Deleon Isle Expressway,1550361600,1550880000,Edward Woods
+Building,Rennovation,438 Johnson Mews Apt. 390,1.21 acres,Blair-Williams,2618 Marshall Summit Passage,1550448000,1552348800,Brian Ochoa
+Maintenance,Mechanical,3252 Curtis Mountain Apt. 856,0.98 acres,Lucero-Rich,6977 Ward Glens Dale,1550534400,1551052800,Brian Ochoa
+Maintenance,Mechanical,03250 Allison Square Suite 416,1.06 acres,Reese Ltd,2506 Johnson Garden Run,1550534400,1551225600,Brian Ochoa
+Maintenance,Mechanical,9278 David Views Apt. 839,1.1 acres,Roth-Garcia,5547 Schroeder Glens Courts,1550534400,1551744000,Stephanie White
+Maintenance,Mechanical,95608 Cook Turnpike Apt. 402,0.9 acres,Lucero-Rich,6977 Ward Glens Dale,1550620800,1551139200,Brian Ochoa
+Maintenance,Electrical,46462 Thompson Walks,0.67 acres,Quinn Inc,7398 Young Meadow Falls,1550620800,1551225600,Lauren Ayala
+Building,New Construction,683 Jerry Villages,1.3 acres,Mercado and Sons,8410 Katie Heights Flats,1550620800,1551657600,Stephanie White
+Maintenance,Plumbing,186 Haley Wall,2.56 acres,Reese Ltd,2506 Johnson Garden Run,1550620800,1551484800,Edward Woods
+Building,New Construction,07871 Logan Villages Suite 611,1.16 acres,Lawson Group,5562 Deleon Isle Expressway,1550707200,1551484800,Lauren Ayala
+Building,Rennovation,19827 Casey Street,1.0 acres,Mercado and Sons,8410 Katie Heights Flats,1550707200,1552608000,Lauren Ayala
+Building,New Construction,817 Taylor Plains Suite 101,0.89 acres,Quinn Inc,7398 Young Meadow Falls,1550707200,1551312000,Lauren Ayala
+Maintenance,Plumbing,650 Gonzalez Islands Apt. 472,1.08 acres,Reese Ltd,2506 Johnson Garden Run,1550707200,1551225600,Brian Ochoa
+Maintenance,Electrical,9600 Wang Row Apt. 569,0.76 acres,Quinn Inc,7398 Young Meadow Falls,1550793600,1551312000,Lauren Ayala
+Maintenance,Mechanical,4719 Rogers Spur Apt. 273,0.92 acres,Quinn Inc,7398 Young Meadow Falls,1550793600,1551398400,Edward Woods
+Maintenance,Plumbing,81799 Cantrell Motorway Suite 137,1.85 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1550793600,1551744000,Stephanie White
+Building,Rennovation,1404 Gonzalez Burg,0.7 acres,Reese Ltd,2506 Johnson Garden Run,1550793600,1552867200,Stephanie White
+Maintenance,Electrical,3935 Sanchez Parks,0.72 acres,Lawson Group,5562 Deleon Isle Expressway,1550880000,1551657600,Stephanie White
+Building,New Construction,45978 Huang Radial,0.79 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1550880000,1551571200,Edward Woods
+Maintenance,Plumbing,130 Robinson Orchard,1.35 acres,Roth-Garcia,5547 Schroeder Glens Courts,1550880000,1551571200,Lauren Ayala
+Maintenance,Electrical,8322 Hodge Corner,1.2 acres,Blair-Williams,2618 Marshall Summit Passage,1550880000,1551657600,Edward Woods
+Maintenance,Electrical,124 Valenzuela Common Apt. 035,0.58 acres,Mercado and Sons,8410 Katie Heights Flats,1551052800,1551744000,Stephanie White
+Maintenance,Plumbing,350 Burns Road Suite 958,0.71 acres,Mercado and Sons,8410 Katie Heights Flats,1551139200,1551484800,Lauren Ayala
+Maintenance,Electrical,5426 Hawkins Flats,1.7 acres,Reese Ltd,2506 Johnson Garden Run,1551139200,1551916800,Edward Woods
+Maintenance,Mechanical,902 Danielle Summit,1.89 acres,Reese Ltd,2506 Johnson Garden Run,1551139200,1551744000,Brian Ochoa
+Maintenance,Plumbing,9256 Morrison Lights,0.79 acres,Reese Ltd,2506 Johnson Garden Run,1551139200,1551484800,Brian Ochoa
+Maintenance,Plumbing,95718 Forbes Groves Suite 413,1.38 acres,Reese Ltd,2506 Johnson Garden Run,1551139200,1552089600,Stephanie White
+Building,New Construction,673 David Cliff,0.67 acres,Blair-Williams,2618 Marshall Summit Passage,1551139200,1551830400,Stephanie White
+Building,Rennovation,1492 Miller Drive Suite 018,0.65 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551225600,1553299200,Stephanie White
+Building,Rennovation,29603 Pamela Dale Suite 249,0.94 acres,Quinn Inc,7398 Young Meadow Falls,1551225600,1553040000,Brian Ochoa
+Maintenance,Electrical,8575 Robert Plain,0.9 acres,Reese Ltd,2506 Johnson Garden Run,1551312000,1551744000,Brian Ochoa
+Maintenance,Electrical,429 Mcdowell Passage Apt. 118,1.69 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551312000,1551830400,Brian Ochoa
+Maintenance,Plumbing,55102 Madison Courts,0.92 acres,Lucero-Rich,6977 Ward Glens Dale,1551312000,1552003200,Stephanie White
+Building,New Construction,01644 Regina Square Apt. 830,1.4 acres,Blair-Williams,2618 Marshall Summit Passage,1551312000,1552089600,Edward Woods
+Building,Rennovation,70641 William Tunnel Apt. 194,2.42 acres,Lucero-Rich,6977 Ward Glens Dale,1551312000,1553299200,Lauren Ayala
+Maintenance,Mechanical,095 Richard Station,1.36 acres,Lawson Group,5562 Deleon Isle Expressway,1551398400,1552348800,Stephanie White
+Building,Rennovation,4095 Melissa Station,1.86 acres,Reese Ltd,2506 Johnson Garden Run,1551398400,1553904000,Stephanie White
+Maintenance,Electrical,906 Peterson Summit Apt. 141,1.31 acres,Lawson Group,5562 Deleon Isle Expressway,1551398400,1552435200,Stephanie White
+Building,New Construction,632 Daniel Mews,0.78 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551398400,1552003200,Edward Woods
+Maintenance,Plumbing,9362 Diaz Stream,0.76 acres,Reese Ltd,2506 Johnson Garden Run,1551398400,1552262400,Stephanie White
+Maintenance,Plumbing,5643 Cox Lake,0.76 acres,Reese Ltd,2506 Johnson Garden Run,1551398400,1552003200,Lauren Ayala
+Maintenance,Mechanical,8777 Alexander Cliffs,1.76 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1551484800,1552176000,Brian Ochoa
+Maintenance,Plumbing,2733 Keith Ports Apt. 101,0.77 acres,Quinn Inc,7398 Young Meadow Falls,1551484800,1551830400,Brian Ochoa
+Building,Rennovation,447 Tamara Squares Suite 468,0.95 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1551484800,1553385600,Lauren Ayala
+Maintenance,Mechanical,305 Benson Freeway Suite 957,0.4 acres,Bray Ltd,6147 Amanda Center Pines,1551484800,1552089600,Edward Woods
+Building,New Construction,2048 Johnson Course,1.44 acres,Quinn Inc,7398 Young Meadow Falls,1551571200,1552521600,Stephanie White
+Building,New Construction,215 Tracy Island,2.16 acres,Bray Ltd,6147 Amanda Center Pines,1551571200,1552435200,Lauren Ayala
+Building,New Construction,191 Kelly Square,0.59 acres,Lawson Group,5562 Deleon Isle Expressway,1551571200,1552435200,Stephanie White
+Building,New Construction,7944 Robertson Shores,0.71 acres,Quinn Inc,7398 Young Meadow Falls,1551657600,1552176000,Edward Woods
+Maintenance,Mechanical,40437 Fields Knoll Suite 484,1.27 acres,Quinn Inc,7398 Young Meadow Falls,1551657600,1552435200,Edward Woods
+Maintenance,Mechanical,70208 Mclean Isle,1.47 acres,Bray Ltd,6147 Amanda Center Pines,1551657600,1552435200,Brian Ochoa
+Maintenance,Electrical,9880 Bean Rapid,1.44 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551657600,1552435200,Lauren Ayala
+Maintenance,Plumbing,3293 Harmon Camp,0.59 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1551657600,1552089600,Edward Woods
+Maintenance,Electrical,54951 Carter Courts,0.5 acres,Bray Ltd,6147 Amanda Center Pines,1551657600,1552262400,Edward Woods
+Maintenance,Mechanical,1675 Katherine Pass Apt. 191,1.53 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1551744000,1552694400,Lauren Ayala
+Maintenance,Electrical,2315 Nguyen Extensions,1.28 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551744000,1552348800,Lauren Ayala
+Maintenance,Plumbing,96968 Williams Harbor,0.84 acres,Mercado and Sons,8410 Katie Heights Flats,1551830400,1552176000,Lauren Ayala
+Maintenance,Mechanical,610 Frank Rest,0.67 acres,Quinn Inc,7398 Young Meadow Falls,1551830400,1552867200,Stephanie White
+Building,New Construction,4111 Angelica Turnpike,0.68 acres,Mercado and Sons,8410 Katie Heights Flats,1551830400,1552348800,Lauren Ayala
+Maintenance,Mechanical,259 Arthur Parkway,0.95 acres,Roth-Garcia,5547 Schroeder Glens Courts,1551916800,1552780800,Stephanie White
+Maintenance,Plumbing,2506 Richard Springs Suite 510,0.78 acres,Reese Ltd,2506 Johnson Garden Run,1552003200,1552521600,Edward Woods
+Building,New Construction,4785 Keller Overpass Suite 779,0.46 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1552003200,1552521600,Lauren Ayala
+Maintenance,Electrical,435 Kimberly Grove Suite 862,1.16 acres,Quinn Inc,7398 Young Meadow Falls,1552003200,1552694400,Brian Ochoa
+Building,New Construction,1056 Destiny Glen Suite 970,1.01 acres,Quinn Inc,7398 Young Meadow Falls,1552089600,1552867200,Lauren Ayala
+Building,Rennovation,77266 Scott Knoll Suite 356,0.89 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552089600,1553904000,Brian Ochoa
+Building,Rennovation,243 Kyle Street,3.02 acres,Quinn Inc,7398 Young Meadow Falls,1552089600,1554508800,Edward Woods
+Maintenance,Mechanical,9380 Christine Cove,0.84 acres,Quinn Inc,7398 Young Meadow Falls,1552089600,1552694400,Lauren Ayala
+Building,Rennovation,50247 Michael Burgs Apt. 858,1.06 acres,Blair-Williams,2618 Marshall Summit Passage,1552089600,1554163200,Edward Woods
+Maintenance,Mechanical,989 Denise Creek,1.11 acres,Lawson Group,5562 Deleon Isle Expressway,1552176000,1553040000,Edward Woods
+Building,Rennovation,4298 Douglas Passage Apt. 826,1.1 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1552176000,1554163200,Lauren Ayala
+Building,New Construction,730 Scott Haven,1.03 acres,Mercado and Sons,8410 Katie Heights Flats,1552262400,1552867200,Brian Ochoa
+Maintenance,Plumbing,5349 Morales Island,1.18 acres,Quinn Inc,7398 Young Meadow Falls,1552262400,1553040000,Lauren Ayala
+Maintenance,Mechanical,3204 Smith Groves Suite 578,0.94 acres,Lucero-Rich,6977 Ward Glens Dale,1552262400,1553126400,Stephanie White
+Building,New Construction,253 Willie Meadow,0.47 acres,Lucero-Rich,6977 Ward Glens Dale,1552262400,1552694400,Brian Ochoa
+Building,Rennovation,715 Brown Orchard Suite 617,1.32 acres,Blair-Williams,2618 Marshall Summit Passage,1552262400,1554163200,Brian Ochoa
+Maintenance,Mechanical,89670 Rebecca Ports,0.98 acres,Bray Ltd,6147 Amanda Center Pines,1552262400,1552867200,Edward Woods
+Building,Rennovation,716 Watson Common Suite 615,1.11 acres,Reese Ltd,2506 Johnson Garden Run,1552262400,1554508800,Edward Woods
+Building,New Construction,04339 Miller Park Apt. 294,0.76 acres,Mercado and Sons,8410 Katie Heights Flats,1552348800,1552867200,Edward Woods
+Maintenance,Electrical,069 Michael Junction,0.46 acres,Bray Ltd,6147 Amanda Center Pines,1552348800,1552953600,Edward Woods
+Maintenance,Electrical,43287 Martinez Forge Suite 461,1.96 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552348800,1552867200,Brian Ochoa
+Maintenance,Plumbing,9273 Taylor Center,1.19 acres,Bray Ltd,6147 Amanda Center Pines,1552435200,1553126400,Lauren Ayala
+Maintenance,Electrical,75374 Smith Rest,1.65 acres,Blair-Williams,2618 Marshall Summit Passage,1552435200,1553212800,Lauren Ayala
+Maintenance,Mechanical,1271 Jared Loop,1.11 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1552521600,1553472000,Lauren Ayala
+Building,Rennovation,8899 Ryan Parkways,1.14 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552521600,1554163200,Brian Ochoa
+Building,Rennovation,5671 Carla Court,0.67 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1552521600,1554422400,Lauren Ayala
+Maintenance,Electrical,3485 Brandt Shore,0.81 acres,Lucero-Rich,6977 Ward Glens Dale,1552608000,1553126400,Edward Woods
+Maintenance,Electrical,151 Matthew Summit Suite 640,1.6 acres,Bray Ltd,6147 Amanda Center Pines,1552608000,1553385600,Edward Woods
+Maintenance,Electrical,0049 Robert Circles,0.67 acres,Reese Ltd,2506 Johnson Garden Run,1552694400,1553212800,Brian Ochoa
+Building,New Construction,141 Dakota Throughway,1.73 acres,Mercado and Sons,8410 Katie Heights Flats,1552694400,1553644800,Stephanie White
+Maintenance,Plumbing,071 Andrew Trail,0.66 acres,Lawson Group,5562 Deleon Isle Expressway,1552694400,1553385600,Stephanie White
+Maintenance,Electrical,093 Aguilar Dale Suite 086,1.25 acres,Reese Ltd,2506 Johnson Garden Run,1552694400,1553385600,Brian Ochoa
+Maintenance,Electrical,628 Cook Loaf Suite 381,0.71 acres,Lucero-Rich,6977 Ward Glens Dale,1552780800,1553385600,Lauren Ayala
+Maintenance,Mechanical,00239 Steven Cove Apt. 915,0.58 acres,Blair-Williams,2618 Marshall Summit Passage,1552780800,1553472000,Lauren Ayala
+Maintenance,Electrical,5194 Dawson Vista,1.23 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552780800,1553558400,Lauren Ayala
+Building,New Construction,46180 Valerie Gardens Suite 974,1.28 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552867200,1553558400,Edward Woods
+Building,New Construction,9179 Lee Shoal Suite 748,0.69 acres,Mercado and Sons,8410 Katie Heights Flats,1552867200,1553299200,Brian Ochoa
+Maintenance,Electrical,13639 Christensen Mountains,1.3 acres,Mercado and Sons,8410 Katie Heights Flats,1552867200,1553990400,Stephanie White
+Building,New Construction,8219 Hansen Drive Apt. 231,1.37 acres,Lawson Group,5562 Deleon Isle Expressway,1552953600,1553644800,Brian Ochoa
+Maintenance,Electrical,4365 Deborah Point Suite 016,1.42 acres,Roth-Garcia,5547 Schroeder Glens Courts,1552953600,1553644800,Lauren Ayala
+Maintenance,Plumbing,590 Wilson Viaduct,0.77 acres,Lucero-Rich,6977 Ward Glens Dale,1552953600,1553385600,Brian Ochoa
+Maintenance,Mechanical,300 Ellis Corners Suite 665,1.11 acres,Bray Ltd,6147 Amanda Center Pines,1553040000,1553731200,Lauren Ayala
+Maintenance,Electrical,4083 Anthony Groves Apt. 915,1.46 acres,Mercado and Sons,8410 Katie Heights Flats,1553040000,1553817600,Edward Woods
+Maintenance,Electrical,37173 Jerry Burg,0.49 acres,Bray Ltd,6147 Amanda Center Pines,1553040000,1553817600,Stephanie White
+Building,Rennovation,6558 Deborah Plains Suite 873,1.58 acres,Roth-Garcia,5547 Schroeder Glens Courts,1553126400,1555200000,Lauren Ayala
+Maintenance,Electrical,9975 Amy Walk Suite 487,1.38 acres,Roth-Garcia,5547 Schroeder Glens Courts,1553126400,1553904000,Lauren Ayala
+Maintenance,Electrical,514 Chase Plain Apt. 607,0.95 acres,Bray Ltd,6147 Amanda Center Pines,1553126400,1553731200,Edward Woods
+Maintenance,Mechanical,680 Deborah Station,1.74 acres,Roth-Garcia,5547 Schroeder Glens Courts,1553212800,1554249600,Stephanie White
+Building,New Construction,78964 Karen Flat,0.97 acres,Lawson Group,5562 Deleon Isle Expressway,1553212800,1553558400,Brian Ochoa
+Building,New Construction,056 Smith Loop,1.9 acres,Blair-Williams,2618 Marshall Summit Passage,1553299200,1553990400,Brian Ochoa
+Building,New Construction,64903 Camacho Mills Apt. 384,0.98 acres,Bray Ltd,6147 Amanda Center Pines,1553299200,1553731200,Brian Ochoa
+Building,New Construction,5447 Diana Centers Apt. 866,1.18 acres,Reese Ltd,2506 Johnson Garden Run,1553299200,1554076800,Edward Woods
+Maintenance,Mechanical,03107 Dylan Way,1.96 acres,Quinn Inc,7398 Young Meadow Falls,1553472000,1554422400,Lauren Ayala
+Maintenance,Plumbing,05811 Moore Drive,1.96 acres,Bray Ltd,6147 Amanda Center Pines,1553472000,1554422400,Stephanie White
+Building,Rennovation,26127 Marshall Drives,0.75 acres,Lucero-Rich,6977 Ward Glens Dale,1553472000,1555286400,Brian Ochoa
+Maintenance,Mechanical,29636 Cherry Mountain,0.59 acres,Mercado and Sons,8410 Katie Heights Flats,1553472000,1554163200,Brian Ochoa
+Maintenance,Mechanical,66033 Jody Light Apt. 086,1.18 acres,Blair-Williams,2618 Marshall Summit Passage,1553644800,1554768000,Stephanie White
+Building,Rennovation,13139 Amanda Curve Apt. 949,1.71 acres,Lucero-Rich,6977 Ward Glens Dale,1553644800,1555632000,Stephanie White
+Maintenance,Mechanical,90206 Ruben Spurs,0.93 acres,Blair-Williams,2618 Marshall Summit Passage,1553644800,1554163200,Brian Ochoa
+Maintenance,Plumbing,059 Hoffman Road Suite 998,1.38 acres,Reese Ltd,2506 Johnson Garden Run,1553644800,1554681600,Stephanie White
+Building,Rennovation,0542 Sean Expressway Suite 040,1.16 acres,Quinn Inc,7398 Young Meadow Falls,1553731200,1555718400,Lauren Ayala
+Building,New Construction,558 Elizabeth Loop Apt. 612,1.14 acres,Lawson Group,5562 Deleon Isle Expressway,1553731200,1554422400,Brian Ochoa
+Maintenance,Electrical,950 Hudson Manor Apt. 318,0.96 acres,Blair-Williams,2618 Marshall Summit Passage,1553817600,1554595200,Stephanie White
+Maintenance,Mechanical,657 Shirley Via Apt. 056,1.27 acres,Mercado and Sons,8410 Katie Heights Flats,1553817600,1554508800,Brian Ochoa
+Building,New Construction,87584 Paul River Suite 371,1.39 acres,Reese Ltd,2506 Johnson Garden Run,1553817600,1554508800,Lauren Ayala
+Maintenance,Mechanical,259 Chapman Lodge,1.17 acres,Bray Ltd,6147 Amanda Center Pines,1553817600,1554595200,Edward Woods
+Maintenance,Plumbing,66563 Hernandez Mission,1.22 acres,Blair-Williams,2618 Marshall Summit Passage,1553817600,1554422400,Brian Ochoa
+Maintenance,Plumbing,587 Chelsea Brooks,0.86 acres,Bray Ltd,6147 Amanda Center Pines,1553904000,1554508800,Brian Ochoa
+Maintenance,Electrical,78317 Kayla Viaduct Apt. 047,0.93 acres,Reese Ltd,2506 Johnson Garden Run,1553990400,1554595200,Edward Woods
+Building,Rennovation,1314 Valencia Parks,1.45 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554076800,1556150400,Lauren Ayala
+Maintenance,Mechanical,9547 Jackson Circles Suite 801,1.38 acres,Lawson Group,5562 Deleon Isle Expressway,1554076800,1555113600,Stephanie White
+Maintenance,Electrical,31382 Carl Roads Apt. 294,2.04 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554163200,1555113600,Lauren Ayala
+Maintenance,Mechanical,91899 Joseph Parkway Apt. 613,0.79 acres,Lawson Group,5562 Deleon Isle Expressway,1554163200,1554681600,Lauren Ayala
+Maintenance,Mechanical,25104 Schultz Canyon Suite 616,0.9 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554163200,1555027200,Stephanie White
+Maintenance,Plumbing,05729 Hernandez Islands,1.54 acres,Lucero-Rich,6977 Ward Glens Dale,1554163200,1555113600,Stephanie White
+Building,New Construction,0242 Derrick Glen,1.08 acres,Quinn Inc,7398 Young Meadow Falls,1554163200,1554854400,Lauren Ayala
+Maintenance,Electrical,485 Wise Neck Apt. 867,1.65 acres,Reese Ltd,2506 Johnson Garden Run,1554249600,1555286400,Stephanie White
+Maintenance,Electrical,486 Brown Squares Apt. 347,0.98 acres,Bray Ltd,6147 Amanda Center Pines,1554249600,1554854400,Lauren Ayala
+Building,New Construction,500 Bailey Prairie Apt. 683,2.25 acres,Lucero-Rich,6977 Ward Glens Dale,1554249600,1555200000,Lauren Ayala
+Maintenance,Electrical,473 Anthony Tunnel,0.84 acres,Lawson Group,5562 Deleon Isle Expressway,1554249600,1555113600,Stephanie White
+Building,Rennovation,984 Diane Prairie Apt. 199,0.58 acres,Bray Ltd,6147 Amanda Center Pines,1554249600,1556409600,Stephanie White
+Building,Rennovation,9941 Briggs Square Apt. 215,1.22 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554336000,1556409600,Edward Woods
+Building,Rennovation,74629 James Road,1.0 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1554422400,1556236800,Brian Ochoa
+Maintenance,Plumbing,54885 Joshua Union Suite 828,0.57 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1554422400,1554854400,Brian Ochoa
+Building,New Construction,161 Williams Center Suite 750,1.39 acres,Lawson Group,5562 Deleon Isle Expressway,1554422400,1555113600,Lauren Ayala
+Building,New Construction,59755 Riley Cliff,0.8 acres,Bray Ltd,6147 Amanda Center Pines,1554508800,1555372800,Stephanie White
+Maintenance,Plumbing,4845 Tate Brooks,0.63 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554508800,1555027200,Edward Woods
+Maintenance,Mechanical,1119 Hannah Lodge Suite 562,1.35 acres,Mercado and Sons,8410 Katie Heights Flats,1554508800,1555372800,Lauren Ayala
+Building,Rennovation,9898 Brandt Motorway Apt. 323,0.7 acres,Blair-Williams,2618 Marshall Summit Passage,1554595200,1556496000,Brian Ochoa
+Building,Rennovation,683 Bridges Curve,0.93 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1554595200,1556841600,Stephanie White
+Building,Rennovation,7666 Clark Via,0.87 acres,Lawson Group,5562 Deleon Isle Expressway,1554595200,1556668800,Stephanie White
+Maintenance,Plumbing,532 Johnson Key Apt. 210,1.6 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1554854400,1555718400,Lauren Ayala
+Maintenance,Plumbing,1670 Greene Locks,0.97 acres,Roth-Garcia,5547 Schroeder Glens Courts,1554854400,1555545600,Stephanie White
+Building,Rennovation,95569 Mary Parkway Apt. 107,0.75 acres,Lucero-Rich,6977 Ward Glens Dale,1554940800,1556668800,Edward Woods
+Building,New Construction,53500 Jackson Center Suite 746,1.0 acres,Reese Ltd,2506 Johnson Garden Run,1554940800,1555459200,Brian Ochoa
+Maintenance,Mechanical,144 David Roads Suite 282,0.79 acres,Blair-Williams,2618 Marshall Summit Passage,1555027200,1555891200,Stephanie White
+Building,New Construction,4445 Donovan Club,0.78 acres,Mercado and Sons,8410 Katie Heights Flats,1555027200,1555632000,Edward Woods
+Maintenance,Plumbing,78927 Atkinson Court Suite 378,0.65 acres,Mercado and Sons,8410 Katie Heights Flats,1555027200,1555804800,Stephanie White
+Building,New Construction,48797 Townsend Ramp Apt. 133,0.77 acres,Blair-Williams,2618 Marshall Summit Passage,1555027200,1555632000,Edward Woods
+Maintenance,Plumbing,69816 Alejandro Valleys,0.61 acres,Blair-Williams,2618 Marshall Summit Passage,1555027200,1555372800,Brian Ochoa
+Maintenance,Electrical,4297 Wilson Lodge Suite 818,1.13 acres,Bray Ltd,6147 Amanda Center Pines,1555027200,1555804800,Edward Woods
+Building,New Construction,85137 Jackson Inlet Apt. 762,0.8 acres,Reese Ltd,2506 Johnson Garden Run,1555113600,1555891200,Stephanie White
+Maintenance,Mechanical,7252 Robinson Path Apt. 790,1.1 acres,Reese Ltd,2506 Johnson Garden Run,1555113600,1555718400,Brian Ochoa
+Maintenance,Electrical,7192 Williams Throughway Apt. 540,1.38 acres,Reese Ltd,2506 Johnson Garden Run,1555113600,1555804800,Lauren Ayala
+Maintenance,Plumbing,3534 Kristin Walk Apt. 201,1.5 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1555113600,1555804800,Brian Ochoa
+Building,Rennovation,804 Spencer Prairie Apt. 663,1.29 acres,Reese Ltd,2506 Johnson Garden Run,1555113600,1557187200,Edward Woods
+Building,New Construction,691 Eric Gateway,1.05 acres,Roth-Garcia,5547 Schroeder Glens Courts,1555200000,1555977600,Lauren Ayala
+Building,New Construction,308 Martinez Inlet,1.0 acres,Reese Ltd,2506 Johnson Garden Run,1555200000,1555804800,Brian Ochoa
+Building,New Construction,093 Kimberly Ways,1.34 acres,Reese Ltd,2506 Johnson Garden Run,1555286400,1556064000,Edward Woods
+Maintenance,Mechanical,675 Booker Isle Apt. 136,0.7 acres,Bray Ltd,6147 Amanda Center Pines,1555286400,1556236800,Stephanie White
+Maintenance,Plumbing,699 Matthew Ramp Apt. 210,0.46 acres,Bray Ltd,6147 Amanda Center Pines,1555286400,1555632000,Edward Woods
+Building,New Construction,4733 Paul Lodge,1.43 acres,Lawson Group,5562 Deleon Isle Expressway,1555372800,1556150400,Edward Woods
+Building,New Construction,4940 Christopher Port,1.45 acres,Reese Ltd,2506 Johnson Garden Run,1555372800,1556409600,Stephanie White
+Building,Rennovation,90952 Mary Union,1.74 acres,Reese Ltd,2506 Johnson Garden Run,1555372800,1556928000,Brian Ochoa
+Maintenance,Electrical,114 Kirk Drives,0.82 acres,Lucero-Rich,6977 Ward Glens Dale,1555372800,1556236800,Stephanie White
+Maintenance,Plumbing,28521 Scott Glen,1.72 acres,Lawson Group,5562 Deleon Isle Expressway,1555372800,1555891200,Brian Ochoa
+Building,New Construction,396 Matthew Isle,0.86 acres,Lucero-Rich,6977 Ward Glens Dale,1555459200,1556409600,Stephanie White
+Maintenance,Electrical,09457 Watson Court,1.53 acres,Reese Ltd,2506 Johnson Garden Run,1555459200,1556409600,Stephanie White
+Maintenance,Plumbing,69652 Wu Key,1.12 acres,Bray Ltd,6147 Amanda Center Pines,1555459200,1556150400,Edward Woods
+Building,New Construction,340 Peggy Manors Suite 540,0.53 acres,Quinn Inc,7398 Young Meadow Falls,1555545600,1555977600,Brian Ochoa
+Maintenance,Plumbing,9448 Morris Rue Suite 239,1.73 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1555545600,1556236800,Edward Woods
+Maintenance,Plumbing,37390 Jensen Street,1.4 acres,Reese Ltd,2506 Johnson Garden Run,1555545600,1556496000,Stephanie White
+Building,Rennovation,4029 Ramirez Street,0.28 acres,Quinn Inc,7398 Young Meadow Falls,1555545600,1557273600,Edward Woods
+Maintenance,Mechanical,7843 Aaron Courts,0.61 acres,Lawson Group,5562 Deleon Isle Expressway,1555545600,1556150400,Brian Ochoa
+Maintenance,Mechanical,892 Davis Extension Apt. 374,1.06 acres,Blair-Williams,2618 Marshall Summit Passage,1555545600,1556496000,Edward Woods
+Maintenance,Mechanical,16766 Darren Springs,0.45 acres,Bray Ltd,6147 Amanda Center Pines,1555632000,1556582400,Stephanie White
+Maintenance,Plumbing,58705 Timothy Lake Suite 469,0.6 acres,Quinn Inc,7398 Young Meadow Falls,1555632000,1556323200,Stephanie White
+Building,New Construction,048 Carrie Pine,0.75 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1555632000,1556150400,Brian Ochoa
+Building,New Construction,940 David Ville Suite 573,0.89 acres,Lucero-Rich,6977 Ward Glens Dale,1555632000,1556064000,Edward Woods
+Building,Rennovation,63205 Rachel Brooks,0.99 acres,Lucero-Rich,6977 Ward Glens Dale,1555718400,1557532800,Brian Ochoa
+Maintenance,Mechanical,446 Nicole Radial,0.61 acres,Bray Ltd,6147 Amanda Center Pines,1555718400,1556409600,Brian Ochoa
+Maintenance,Plumbing,0536 Rivera Cliff Suite 448,1.74 acres,Reese Ltd,2506 Johnson Garden Run,1555718400,1556582400,Stephanie White
+Maintenance,Plumbing,87184 Sara Throughway,0.77 acres,Blair-Williams,2618 Marshall Summit Passage,1555718400,1556150400,Brian Ochoa
+Building,New Construction,1909 Diane Throughway Suite 070,0.81 acres,Quinn Inc,7398 Young Meadow Falls,1555718400,1556496000,Stephanie White
+Building,Rennovation,616 Donna Loaf,2.08 acres,Roth-Garcia,5547 Schroeder Glens Courts,1555718400,1557878400,Edward Woods
+Building,Rennovation,697 Thomas Club Apt. 839,0.5 acres,Blair-Williams,2618 Marshall Summit Passage,1555718400,1557705600,Stephanie White
+Maintenance,Electrical,72089 Sanders Trace Suite 617,1.14 acres,Mercado and Sons,8410 Katie Heights Flats,1555718400,1556409600,Lauren Ayala
+Maintenance,Plumbing,146 Jennifer Tunnel Suite 578,1.07 acres,Lawson Group,5562 Deleon Isle Expressway,1555804800,1556496000,Edward Woods
+Maintenance,Electrical,63409 Rowe Avenue Suite 777,0.8 acres,Blair-Williams,2618 Marshall Summit Passage,1555804800,1556409600,Lauren Ayala
+Building,Rennovation,62701 Foster Fields,0.62 acres,Mercado and Sons,8410 Katie Heights Flats,1555804800,1557446400,Brian Ochoa
+Maintenance,Electrical,02128 Chad Mountain Apt. 389,1.08 acres,Lawson Group,5562 Deleon Isle Expressway,1555804800,1556496000,Lauren Ayala
+Maintenance,Mechanical,4031 Rojas Tunnel Suite 017,2.06 acres,Quinn Inc,7398 Young Meadow Falls,1555804800,1556841600,Lauren Ayala
+Maintenance,Electrical,6136 Bruce Avenue,0.87 acres,Lawson Group,5562 Deleon Isle Expressway,1555891200,1556755200,Stephanie White
+Maintenance,Mechanical,8896 Kristi Ford Apt. 058,1.43 acres,Quinn Inc,7398 Young Meadow Falls,1555977600,1557014400,Stephanie White
+Maintenance,Electrical,9292 Watson Meadow,1.37 acres,Lucero-Rich,6977 Ward Glens Dale,1555977600,1556755200,Lauren Ayala
+Maintenance,Mechanical,1752 Judy Crossing,1.08 acres,Lucero-Rich,6977 Ward Glens Dale,1555977600,1556928000,Stephanie White
+Maintenance,Electrical,7712 Watkins Walks Suite 448,1.39 acres,Mercado and Sons,8410 Katie Heights Flats,1556150400,1556928000,Lauren Ayala
+Building,New Construction,72442 Thomas Ports,0.99 acres,Lawson Group,5562 Deleon Isle Expressway,1556150400,1556668800,Brian Ochoa
+Maintenance,Electrical,2063 Bowman Glen,0.58 acres,Blair-Williams,2618 Marshall Summit Passage,1556150400,1557014400,Stephanie White
+Maintenance,Mechanical,8746 Chen Ferry,1.05 acres,Blair-Williams,2618 Marshall Summit Passage,1556236800,1557273600,Stephanie White
+Maintenance,Mechanical,929 Kathy Bridge,1.37 acres,Mercado and Sons,8410 Katie Heights Flats,1556236800,1557273600,Stephanie White
+Building,Rennovation,0390 Jonathan Club Suite 571,1.18 acres,Blair-Williams,2618 Marshall Summit Passage,1556236800,1557964800,Brian Ochoa
+Maintenance,Plumbing,4694 Cooper Brooks,1.21 acres,Blair-Williams,2618 Marshall Summit Passage,1556323200,1557273600,Stephanie White
+Maintenance,Mechanical,616 Drake Creek,0.45 acres,Lawson Group,5562 Deleon Isle Expressway,1556323200,1556928000,Lauren Ayala
+Maintenance,Electrical,6884 Michael Landing Apt. 512,1.45 acres,Lawson Group,5562 Deleon Isle Expressway,1556409600,1557187200,Edward Woods
+Building,New Construction,7816 Michael Forges Apt. 235,0.98 acres,Lucero-Rich,6977 Ward Glens Dale,1556496000,1557360000,Stephanie White
+Maintenance,Mechanical,2922 Amy Crossroad Suite 603,1.25 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1556496000,1557187200,Brian Ochoa
+Maintenance,Mechanical,6948 Salas Row,1.52 acres,Roth-Garcia,5547 Schroeder Glens Courts,1556496000,1557446400,Stephanie White
+Building,Rennovation,6176 Brown Valleys,1.03 acres,Roth-Garcia,5547 Schroeder Glens Courts,1556582400,1559088000,Stephanie White
+Maintenance,Electrical,7514 Tasha Row,1.53 acres,Quinn Inc,7398 Young Meadow Falls,1556582400,1557446400,Stephanie White
+Maintenance,Plumbing,5691 Carlson Ranch Apt. 746,0.82 acres,Roth-Garcia,5547 Schroeder Glens Courts,1556668800,1557100800,Brian Ochoa
+Maintenance,Electrical,064 Taylor Gardens,1.29 acres,Reese Ltd,2506 Johnson Garden Run,1556668800,1557360000,Brian Ochoa
+Building,New Construction,1564 Lang Manors Suite 670,0.7 acres,Reese Ltd,2506 Johnson Garden Run,1556668800,1557360000,Lauren Ayala
+Building,Rennovation,443 Annette Turnpike,1.05 acres,Mercado and Sons,8410 Katie Heights Flats,1556668800,1558656000,Edward Woods
+Building,New Construction,06499 George Causeway Suite 777,0.65 acres,Reese Ltd,2506 Johnson Garden Run,1556668800,1557360000,Edward Woods
+Maintenance,Plumbing,7914 Christopher Isle,1.53 acres,Bray Ltd,6147 Amanda Center Pines,1556841600,1557619200,Brian Ochoa
+Building,Rennovation,74976 Amanda Parks,0.88 acres,Mercado and Sons,8410 Katie Heights Flats,1556841600,1558828800,Lauren Ayala
+Maintenance,Mechanical,27589 Wilson Skyway Apt. 233,1.24 acres,Mercado and Sons,8410 Katie Heights Flats,1556928000,1557705600,Edward Woods
+Building,New Construction,38475 Morris Crossroad,0.58 acres,Mercado and Sons,8410 Katie Heights Flats,1556928000,1557619200,Edward Woods
+Maintenance,Mechanical,3550 Timothy Forks Suite 149,1.42 acres,Blair-Williams,2618 Marshall Summit Passage,1556928000,1557878400,Edward Woods
+Maintenance,Plumbing,164 Susan Squares Suite 801,1.25 acres,Roth-Garcia,5547 Schroeder Glens Courts,1557014400,1557705600,Edward Woods
+Maintenance,Plumbing,6993 Janet Turnpike Suite 161,0.53 acres,Bray Ltd,6147 Amanda Center Pines,1557014400,1557964800,Stephanie White
+Maintenance,Mechanical,72016 David Trail Suite 284,1.07 acres,Reese Ltd,2506 Johnson Garden Run,1557014400,1557705600,Edward Woods
+Maintenance,Electrical,324 Mccoy Club Suite 903,0.58 acres,Quinn Inc,7398 Young Meadow Falls,1557100800,1557619200,Brian Ochoa
+Maintenance,Electrical,187 Macias Square Apt. 034,1.6 acres,Mercado and Sons,8410 Katie Heights Flats,1557100800,1557878400,Edward Woods
+Maintenance,Electrical,108 Donna Heights Apt. 914,1.57 acres,Roth-Garcia,5547 Schroeder Glens Courts,1557187200,1557964800,Lauren Ayala
+Building,New Construction,93799 Amy Gardens Suite 323,1.45 acres,Reese Ltd,2506 Johnson Garden Run,1557187200,1557792000,Edward Woods
+Maintenance,Mechanical,0291 Marshall Run,2.11 acres,Mercado and Sons,8410 Katie Heights Flats,1557187200,1558224000,Edward Woods
+Building,New Construction,32312 Lawson Isle Apt. 976,0.9 acres,Lucero-Rich,6977 Ward Glens Dale,1557187200,1557964800,Stephanie White
+Maintenance,Plumbing,0681 Mario Mills,0.96 acres,Blair-Williams,2618 Marshall Summit Passage,1557187200,1557964800,Stephanie White
+Maintenance,Mechanical,09158 Dillon Ports Suite 383,0.81 acres,Reese Ltd,2506 Johnson Garden Run,1557187200,1558051200,Stephanie White
+Maintenance,Plumbing,38466 Myers Road,0.68 acres,Quinn Inc,7398 Young Meadow Falls,1557187200,1557705600,Lauren Ayala
+Maintenance,Electrical,925 Michael Hollow Suite 576,1.56 acres,Quinn Inc,7398 Young Meadow Falls,1557273600,1557964800,Lauren Ayala
+Building,New Construction,596 Garcia Stravenue Apt. 052,0.97 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1557273600,1557792000,Lauren Ayala
+Building,Rennovation,370 Wallace Field Apt. 784,0.75 acres,Lawson Group,5562 Deleon Isle Expressway,1557360000,1559001600,Brian Ochoa
+Maintenance,Mechanical,077 Massey Trace Suite 336,0.9 acres,Lawson Group,5562 Deleon Isle Expressway,1557360000,1558310400,Stephanie White
+Maintenance,Mechanical,5516 Burke Junctions,1.11 acres,Roth-Garcia,5547 Schroeder Glens Courts,1557360000,1558137600,Lauren Ayala
+Building,Rennovation,831 Kevin Corners Apt. 295,0.57 acres,Mercado and Sons,8410 Katie Heights Flats,1557446400,1559433600,Edward Woods
+Maintenance,Mechanical,379 Kevin Valley,0.69 acres,Quinn Inc,7398 Young Meadow Falls,1557446400,1557964800,Brian Ochoa
+Building,New Construction,40145 Collier Rapid,1.3 acres,Mercado and Sons,8410 Katie Heights Flats,1557446400,1558310400,Lauren Ayala
+Building,Rennovation,67771 Allison Dam,1.39 acres,Mercado and Sons,8410 Katie Heights Flats,1557532800,1559260800,Edward Woods
+Building,Rennovation,41989 Wang Gateway,1.1 acres,Lawson Group,5562 Deleon Isle Expressway,1557619200,1559692800,Edward Woods
+Maintenance,Electrical,479 Lisa Parkway Suite 665,0.85 acres,Blair-Williams,2618 Marshall Summit Passage,1557619200,1558137600,Brian Ochoa
+Maintenance,Mechanical,28731 Henderson Greens Apt. 665,0.72 acres,Mercado and Sons,8410 Katie Heights Flats,1557619200,1558310400,Lauren Ayala
+Maintenance,Plumbing,723 Spence Mews,0.84 acres,Blair-Williams,2618 Marshall Summit Passage,1557705600,1557964800,Brian Ochoa
+Maintenance,Electrical,5316 Ricardo Oval,0.72 acres,Lawson Group,5562 Deleon Isle Expressway,1557705600,1558224000,Edward Woods
+Building,New Construction,519 Jacob Locks Apt. 310,0.9 acres,Lucero-Rich,6977 Ward Glens Dale,1557705600,1558224000,Edward Woods
+Maintenance,Mechanical,6529 Richardson Row Apt. 793,0.9 acres,Quinn Inc,7398 Young Meadow Falls,1557792000,1558396800,Lauren Ayala
+Maintenance,Electrical,37107 Torres Lock,0.92 acres,Lawson Group,5562 Deleon Isle Expressway,1557792000,1558224000,Brian Ochoa
+Maintenance,Plumbing,7281 Deborah Summit,1.47 acres,Bray Ltd,6147 Amanda Center Pines,1557792000,1558310400,Brian Ochoa
+Building,Rennovation,3454 Tamara Brooks,0.97 acres,Mercado and Sons,8410 Katie Heights Flats,1557792000,1560038400,Stephanie White
+Maintenance,Mechanical,33681 Stephanie Light Suite 954,0.62 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1557964800,1558742400,Stephanie White
+Maintenance,Mechanical,632 Mathew Garden,1.63 acres,Lawson Group,5562 Deleon Isle Expressway,1557964800,1558656000,Lauren Ayala
+Maintenance,Electrical,44935 Abigail Plaza Apt. 078,1.0 acres,Quinn Inc,7398 Young Meadow Falls,1558051200,1558569600,Edward Woods
+Maintenance,Plumbing,4256 Brian Shoal,0.41 acres,Mercado and Sons,8410 Katie Heights Flats,1558051200,1558569600,Edward Woods
+Maintenance,Mechanical,83733 Timothy Spur,0.49 acres,Lawson Group,5562 Deleon Isle Expressway,1558051200,1558569600,Brian Ochoa
+Maintenance,Plumbing,595 Harris Mills,1.08 acres,Lucero-Rich,6977 Ward Glens Dale,1558051200,1559001600,Stephanie White
+Maintenance,Plumbing,6449 Joseph Shoals,1.11 acres,Roth-Garcia,5547 Schroeder Glens Courts,1558051200,1558828800,Edward Woods
+Building,New Construction,341 Joshua Brooks Apt. 310,1.25 acres,Lawson Group,5562 Deleon Isle Expressway,1558137600,1559174400,Stephanie White
+Maintenance,Electrical,267 Martin Summit Apt. 600,0.79 acres,Roth-Garcia,5547 Schroeder Glens Courts,1558137600,1558569600,Edward Woods
+Building,New Construction,0844 David Tunnel Apt. 919,1.18 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1558137600,1558656000,Brian Ochoa
+Maintenance,Electrical,22821 Thompson Forks,0.88 acres,Lawson Group,5562 Deleon Isle Expressway,1558137600,1558656000,Brian Ochoa
+Building,New Construction,130 Jackson Turnpike Apt. 640,0.73 acres,Reese Ltd,2506 Johnson Garden Run,1558137600,1558828800,Lauren Ayala
+Maintenance,Plumbing,64846 Brandon Light,0.9 acres,Mercado and Sons,8410 Katie Heights Flats,1558224000,1559001600,Stephanie White
+Building,New Construction,493 Rhonda Neck Suite 695,1.08 acres,Quinn Inc,7398 Young Meadow Falls,1558224000,1559260800,Stephanie White
+Maintenance,Plumbing,639 Torres Heights Apt. 375,1.75 acres,Lawson Group,5562 Deleon Isle Expressway,1558224000,1559260800,Stephanie White
+Building,Rennovation,1461 Graham Oval Suite 229,1.18 acres,Mercado and Sons,8410 Katie Heights Flats,1558224000,1560470400,Lauren Ayala
+Maintenance,Mechanical,0132 Franklin Junction Apt. 131,1.26 acres,Blair-Williams,2618 Marshall Summit Passage,1558310400,1559260800,Stephanie White
+Building,Rennovation,289 Vincent Spring,1.24 acres,Lawson Group,5562 Deleon Isle Expressway,1558310400,1560384000,Lauren Ayala
+Maintenance,Mechanical,932 Michelle Throughway Apt. 525,0.88 acres,Mercado and Sons,8410 Katie Heights Flats,1558396800,1558828800,Brian Ochoa
+Building,Rennovation,15052 Smith Island,0.99 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1558396800,1560211200,Brian Ochoa
+Maintenance,Mechanical,3196 Briana Stravenue,1.04 acres,Quinn Inc,7398 Young Meadow Falls,1558396800,1559347200,Lauren Ayala
+Maintenance,Electrical,25426 Jacobson Manor,1.12 acres,Quinn Inc,7398 Young Meadow Falls,1558483200,1559347200,Lauren Ayala
+Maintenance,Mechanical,20616 Kathleen Hollow Suite 976,0.36 acres,Lucero-Rich,6977 Ward Glens Dale,1558483200,1559260800,Lauren Ayala
+Maintenance,Plumbing,64797 Stein Trail,1.98 acres,Bray Ltd,6147 Amanda Center Pines,1558483200,1559088000,Brian Ochoa
+Maintenance,Mechanical,177 William Trace,1.1 acres,Reese Ltd,2506 Johnson Garden Run,1558569600,1559260800,Brian Ochoa
+Building,New Construction,51832 Richardson Summit,1.47 acres,Mercado and Sons,8410 Katie Heights Flats,1558569600,1559347200,Lauren Ayala
+Building,Rennovation,14904 Diana Path,0.66 acres,Lawson Group,5562 Deleon Isle Expressway,1558569600,1560470400,Edward Woods
+Maintenance,Electrical,17219 Davis Greens Suite 150,1.05 acres,Roth-Garcia,5547 Schroeder Glens Courts,1558656000,1559433600,Edward Woods
+Maintenance,Mechanical,818 Eric Rest,1.56 acres,Quinn Inc,7398 Young Meadow Falls,1558656000,1559347200,Brian Ochoa
+Maintenance,Electrical,9595 Brandon Center Apt. 332,0.93 acres,Roth-Garcia,5547 Schroeder Glens Courts,1558656000,1559520000,Stephanie White
+Building,Rennovation,0314 Amy Prairie Apt. 387,1.26 acres,Reese Ltd,2506 Johnson Garden Run,1558656000,1560816000,Edward Woods
+Maintenance,Mechanical,312 Melissa Place Apt. 945,2.01 acres,Lawson Group,5562 Deleon Isle Expressway,1558742400,1559692800,Edward Woods
+Building,Rennovation,05996 Wheeler Freeway,1.43 acres,Quinn Inc,7398 Young Meadow Falls,1558742400,1560816000,Edward Woods
+Maintenance,Electrical,2905 Sandra Islands Suite 853,0.87 acres,Reese Ltd,2506 Johnson Garden Run,1558742400,1559606400,Stephanie White
+Maintenance,Mechanical,7010 Megan Trail,1.26 acres,Quinn Inc,7398 Young Meadow Falls,1558828800,1559606400,Lauren Ayala
+Building,Rennovation,0293 Parrish Glens Suite 191,1.42 acres,Bray Ltd,6147 Amanda Center Pines,1558828800,1560729600,Lauren Ayala
+Maintenance,Electrical,74804 Juan Land,1.12 acres,Mercado and Sons,8410 Katie Heights Flats,1558828800,1559865600,Stephanie White
+Maintenance,Mechanical,715 Carl Drives,0.66 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1558828800,1559433600,Lauren Ayala
+Maintenance,Electrical,7140 Sullivan Locks Suite 552,0.95 acres,Quinn Inc,7398 Young Meadow Falls,1558828800,1559520000,Edward Woods
+Building,Rennovation,01652 Cindy Coves Suite 892,1.94 acres,Bray Ltd,6147 Amanda Center Pines,1558915200,1560643200,Brian Ochoa
+Maintenance,Electrical,1166 Cynthia Oval,1.51 acres,Quinn Inc,7398 Young Meadow Falls,1558915200,1559433600,Brian Ochoa
+Maintenance,Mechanical,079 Nelson Landing Suite 033,0.44 acres,Bray Ltd,6147 Amanda Center Pines,1559001600,1559952000,Stephanie White
+Building,Rennovation,389 Jacob Wall Suite 447,2.12 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1559001600,1561161600,Lauren Ayala
+Maintenance,Mechanical,6536 Kyle Park Suite 627,1.38 acres,Bray Ltd,6147 Amanda Center Pines,1559001600,1559865600,Lauren Ayala
+Maintenance,Plumbing,143 Reese View Apt. 939,0.29 acres,Roth-Garcia,5547 Schroeder Glens Courts,1559088000,1559779200,Edward Woods
+Building,Rennovation,69232 Bell Mall Suite 734,1.1 acres,Bray Ltd,6147 Amanda Center Pines,1559088000,1560988800,Brian Ochoa
+Maintenance,Plumbing,14856 Randall Path,1.08 acres,Quinn Inc,7398 Young Meadow Falls,1559088000,1559865600,Brian Ochoa
+Maintenance,Mechanical,1756 Rollins Common Suite 818,0.62 acres,Quinn Inc,7398 Young Meadow Falls,1559174400,1559952000,Edward Woods
+Maintenance,Plumbing,824 Ashley Rest Suite 829,1.28 acres,Mercado and Sons,8410 Katie Heights Flats,1559260800,1559865600,Lauren Ayala
+Building,New Construction,934 Chad Valley,0.73 acres,Reese Ltd,2506 Johnson Garden Run,1559347200,1559952000,Lauren Ayala
+Building,New Construction,05472 Carey Avenue Suite 477,1.79 acres,Quinn Inc,7398 Young Meadow Falls,1559347200,1560038400,Lauren Ayala
+Building,New Construction,771 Brittney Plains,1.05 acres,Reese Ltd,2506 Johnson Garden Run,1559347200,1560038400,Lauren Ayala
+Maintenance,Electrical,81389 Richard Estate,0.48 acres,Roth-Garcia,5547 Schroeder Glens Courts,1559347200,1560038400,Stephanie White
+Maintenance,Electrical,908 Johnson Lock Suite 107,1.24 acres,Lawson Group,5562 Deleon Isle Expressway,1559433600,1560470400,Stephanie White
+Maintenance,Electrical,32219 Sarah Forest Apt. 375,1.47 acres,Lucero-Rich,6977 Ward Glens Dale,1559433600,1560211200,Lauren Ayala
+Building,Rennovation,1936 Cobb Summit Apt. 920,0.51 acres,Reese Ltd,2506 Johnson Garden Run,1559433600,1561248000,Lauren Ayala
+Maintenance,Plumbing,2561 Parker Prairie,0.62 acres,Quinn Inc,7398 Young Meadow Falls,1559606400,1560211200,Brian Ochoa
+Building,Rennovation,5331 Webster Square Apt. 063,0.77 acres,Quinn Inc,7398 Young Meadow Falls,1559606400,1561248000,Edward Woods
+Maintenance,Electrical,1381 Kathleen Club Suite 962,0.85 acres,Lucero-Rich,6977 Ward Glens Dale,1559606400,1560124800,Lauren Ayala
+Maintenance,Mechanical,21400 Lane Manor,1.01 acres,Quinn Inc,7398 Young Meadow Falls,1559606400,1560556800,Lauren Ayala
+Building,New Construction,1204 Sanders Junctions,1.13 acres,Blair-Williams,2618 Marshall Summit Passage,1559606400,1560384000,Lauren Ayala
+Maintenance,Mechanical,4438 Laura Route Suite 585,1.69 acres,Bray Ltd,6147 Amanda Center Pines,1559692800,1560470400,Edward Woods
+Maintenance,Mechanical,161 Stark Ferry Apt. 377,1.18 acres,Quinn Inc,7398 Young Meadow Falls,1559692800,1560470400,Lauren Ayala
+Maintenance,Plumbing,94032 Miller Oval,1.87 acres,Quinn Inc,7398 Young Meadow Falls,1559692800,1560729600,Stephanie White
+Maintenance,Mechanical,9758 Bethany Fort,1.27 acres,Reese Ltd,2506 Johnson Garden Run,1559779200,1560556800,Lauren Ayala
+Maintenance,Plumbing,17147 Richardson Loop,1.08 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1559865600,1560902400,Stephanie White
+Maintenance,Mechanical,651 Michael Valley,0.87 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1559865600,1560470400,Lauren Ayala
+Maintenance,Plumbing,85890 King Street Apt. 702,0.79 acres,Quinn Inc,7398 Young Meadow Falls,1559952000,1560470400,Edward Woods
+Building,New Construction,868 Maria Wells,1.01 acres,Lawson Group,5562 Deleon Isle Expressway,1559952000,1560556800,Edward Woods
+Maintenance,Mechanical,8020 Hernandez Turnpike Apt. 877,1.75 acres,Mercado and Sons,8410 Katie Heights Flats,1559952000,1560729600,Brian Ochoa
+Maintenance,Electrical,2347 Roberts Village,1.28 acres,Blair-Williams,2618 Marshall Summit Passage,1559952000,1560643200,Brian Ochoa
+Building,New Construction,64016 Pamela Harbor,1.17 acres,Lucero-Rich,6977 Ward Glens Dale,1559952000,1560729600,Edward Woods
+Building,Rennovation,4055 Nicole Plain,0.69 acres,Lucero-Rich,6977 Ward Glens Dale,1560038400,1561939200,Edward Woods
+Building,New Construction,370 Bradley Summit Apt. 823,0.98 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1560038400,1560902400,Stephanie White
+Building,Rennovation,6960 Olsen Ways Apt. 010,0.79 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1560297600,1562284800,Lauren Ayala
+Building,Rennovation,220 Eric Mountain,3.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1560297600,1562889600,Stephanie White
+Maintenance,Mechanical,599 Lindsey Shore Suite 608,0.79 acres,Lawson Group,5562 Deleon Isle Expressway,1560384000,1560988800,Lauren Ayala
+Building,New Construction,034 Robertson Lock,1.41 acres,Roth-Garcia,5547 Schroeder Glens Courts,1560384000,1561334400,Stephanie White
+Maintenance,Mechanical,306 Stone Springs,1.84 acres,Mercado and Sons,8410 Katie Heights Flats,1560384000,1561334400,Lauren Ayala
+Maintenance,Plumbing,734 Jason Freeway,1.64 acres,Reese Ltd,2506 Johnson Garden Run,1560384000,1560988800,Brian Ochoa
+Building,Rennovation,9342 Lee Cliff,1.39 acres,Lucero-Rich,6977 Ward Glens Dale,1560470400,1562198400,Lauren Ayala
+Building,New Construction,7445 Russell Fort Suite 776,1.18 acres,Bray Ltd,6147 Amanda Center Pines,1560470400,1561161600,Lauren Ayala
+Maintenance,Electrical,15659 Juan Junctions,0.93 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1560556800,1561334400,Stephanie White
+Maintenance,Mechanical,7837 Dustin Extension,1.38 acres,Bray Ltd,6147 Amanda Center Pines,1560556800,1561248000,Edward Woods
+Maintenance,Plumbing,82752 Shea Skyway Suite 764,1.01 acres,Quinn Inc,7398 Young Meadow Falls,1560556800,1561161600,Edward Woods
+Maintenance,Electrical,1824 Howell Road Apt. 330,0.46 acres,Lawson Group,5562 Deleon Isle Expressway,1560556800,1561420800,Stephanie White
+Maintenance,Mechanical,40482 Herman Island Apt. 960,0.84 acres,Blair-Williams,2618 Marshall Summit Passage,1560643200,1561334400,Brian Ochoa
+Building,Rennovation,63002 Deleon Circles,1.31 acres,Lucero-Rich,6977 Ward Glens Dale,1560643200,1562976000,Stephanie White
+Building,Rennovation,3827 Michelle Ranch,1.08 acres,Blair-Williams,2618 Marshall Summit Passage,1560816000,1563062400,Lauren Ayala
+Building,New Construction,8396 Alexander Drive Apt. 321,0.89 acres,Lawson Group,5562 Deleon Isle Expressway,1560816000,1561334400,Edward Woods
+Building,Rennovation,0156 Richardson Trail,0.56 acres,Mercado and Sons,8410 Katie Heights Flats,1560816000,1562457600,Edward Woods
+Maintenance,Mechanical,10670 Romero Mission Suite 463,1.31 acres,Lawson Group,5562 Deleon Isle Expressway,1560816000,1561507200,Edward Woods
+Maintenance,Mechanical,78946 Smith Prairie,1.23 acres,Roth-Garcia,5547 Schroeder Glens Courts,1560902400,1561852800,Edward Woods
+Maintenance,Plumbing,5527 Simmons Lodge Suite 167,1.81 acres,Quinn Inc,7398 Young Meadow Falls,1560902400,1561420800,Edward Woods
+Maintenance,Electrical,70011 Chase Fort,1.3 acres,Roth-Garcia,5547 Schroeder Glens Courts,1560902400,1561593600,Edward Woods
+Building,Rennovation,23054 Karen Station Suite 377,1.96 acres,Lucero-Rich,6977 Ward Glens Dale,1560902400,1562976000,Stephanie White
+Building,New Construction,946 Edward Inlet Suite 250,1.5 acres,Lucero-Rich,6977 Ward Glens Dale,1560988800,1561680000,Brian Ochoa
+Building,Rennovation,80339 Leslie Plain Suite 342,1.39 acres,Blair-Williams,2618 Marshall Summit Passage,1560988800,1563321600,Stephanie White
+Building,Rennovation,4270 Cobb Locks Suite 404,0.84 acres,Quinn Inc,7398 Young Meadow Falls,1560988800,1562889600,Stephanie White
+Building,Rennovation,2614 Ana Extension,1.23 acres,Reese Ltd,2506 Johnson Garden Run,1560988800,1562716800,Brian Ochoa
+Maintenance,Electrical,06175 Glenn Trafficway,0.55 acres,Quinn Inc,7398 Young Meadow Falls,1560988800,1561852800,Stephanie White
+Maintenance,Plumbing,41687 Thompson Divide,1.51 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1560988800,1561680000,Lauren Ayala
+Maintenance,Plumbing,0570 Julie River Suite 672,1.24 acres,Bray Ltd,6147 Amanda Center Pines,1561075200,1561680000,Edward Woods
+Maintenance,Plumbing,204 Jennifer Drives,1.06 acres,Reese Ltd,2506 Johnson Garden Run,1561075200,1561852800,Edward Woods
+Maintenance,Mechanical,119 James Islands,1.35 acres,Roth-Garcia,5547 Schroeder Glens Courts,1561075200,1561852800,Lauren Ayala
+Building,New Construction,97613 Heather Spur Apt. 304,0.88 acres,Mercado and Sons,8410 Katie Heights Flats,1561161600,1562025600,Stephanie White
+Maintenance,Plumbing,262 Sharon Dale,2.01 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561161600,1562025600,Edward Woods
+Maintenance,Plumbing,4137 Jacob Cliff,0.76 acres,Blair-Williams,2618 Marshall Summit Passage,1561334400,1561939200,Stephanie White
+Maintenance,Electrical,157 Scott Light Apt. 717,1.25 acres,Reese Ltd,2506 Johnson Garden Run,1561334400,1561939200,Edward Woods
+Building,Rennovation,777 Baxter Ports,0.88 acres,Lucero-Rich,6977 Ward Glens Dale,1561334400,1563062400,Lauren Ayala
+Building,New Construction,01697 Darryl Lodge Apt. 382,0.72 acres,Mercado and Sons,8410 Katie Heights Flats,1561334400,1561852800,Brian Ochoa
+Maintenance,Mechanical,8316 Tony Ramp Apt. 253,1.21 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561420800,1562198400,Edward Woods
+Maintenance,Plumbing,8674 Melissa Plaza Apt. 509,1.1 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561420800,1562198400,Brian Ochoa
+Building,New Construction,44068 Rivers Motorway Apt. 989,0.82 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561420800,1562198400,Stephanie White
+Building,Rennovation,0481 Robert Roads Apt. 952,1.49 acres,Quinn Inc,7398 Young Meadow Falls,1561507200,1563235200,Lauren Ayala
+Building,New Construction,572 Brennan Drives,0.83 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561507200,1562025600,Brian Ochoa
+Maintenance,Electrical,331 Joseph Road Suite 159,0.58 acres,Quinn Inc,7398 Young Meadow Falls,1561507200,1561939200,Brian Ochoa
+Building,New Construction,3713 Shawn Point,0.94 acres,Reese Ltd,2506 Johnson Garden Run,1561507200,1562025600,Edward Woods
+Maintenance,Electrical,770 Terry Union,1.34 acres,Quinn Inc,7398 Young Meadow Falls,1561507200,1562198400,Lauren Ayala
+Maintenance,Mechanical,52713 Allison Divide Suite 385,0.93 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1561593600,1562025600,Brian Ochoa
+Maintenance,Plumbing,01821 Miller Bridge Apt. 608,1.56 acres,Mercado and Sons,8410 Katie Heights Flats,1561680000,1562198400,Lauren Ayala
+Maintenance,Mechanical,94724 Clark Terrace,2.51 acres,Lawson Group,5562 Deleon Isle Expressway,1561680000,1562803200,Edward Woods
+Maintenance,Plumbing,00103 Samantha Valleys Suite 655,1.12 acres,Bray Ltd,6147 Amanda Center Pines,1561680000,1562544000,Stephanie White
+Building,New Construction,904 Henry Throughway Apt. 469,0.92 acres,Roth-Garcia,5547 Schroeder Glens Courts,1561766400,1562630400,Stephanie White
+Building,New Construction,551 Baird Wall Apt. 878,1.61 acres,Mercado and Sons,8410 Katie Heights Flats,1561766400,1562544000,Lauren Ayala
+Building,Rennovation,0322 Butler Ways,0.98 acres,Roth-Garcia,5547 Schroeder Glens Courts,1561766400,1563580800,Edward Woods
+Maintenance,Electrical,44097 Corey Mount Suite 400,1.66 acres,Bray Ltd,6147 Amanda Center Pines,1561852800,1562544000,Edward Woods
+Maintenance,Plumbing,1172 Karen River,0.71 acres,Quinn Inc,7398 Young Meadow Falls,1561852800,1562630400,Stephanie White
+Maintenance,Electrical,5327 Wright Drive Apt. 651,1.68 acres,Roth-Garcia,5547 Schroeder Glens Courts,1561939200,1562630400,Edward Woods
+Maintenance,Plumbing,01341 Jennifer Stream Apt. 262,1.6 acres,Lawson Group,5562 Deleon Isle Expressway,1561939200,1562544000,Edward Woods
+Building,Rennovation,8403 Scott Track Suite 466,1.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562025600,1564358400,Stephanie White
+Maintenance,Plumbing,003 Nicholas Drive Apt. 855,1.64 acres,Bray Ltd,6147 Amanda Center Pines,1562025600,1562803200,Brian Ochoa
+Building,Rennovation,5627 Lauren Meadows Suite 930,0.57 acres,Blair-Williams,2618 Marshall Summit Passage,1562112000,1563667200,Brian Ochoa
+Building,Rennovation,92070 Sanchez Corners,0.81 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562112000,1564185600,Stephanie White
+Maintenance,Electrical,67353 Mays Lake,0.85 acres,Lawson Group,5562 Deleon Isle Expressway,1562112000,1562544000,Lauren Ayala
+Maintenance,Plumbing,3747 Lisa Port,0.88 acres,Quinn Inc,7398 Young Meadow Falls,1562112000,1562457600,Brian Ochoa
+Maintenance,Mechanical,762 Bryant Knolls Suite 599,1.19 acres,Lucero-Rich,6977 Ward Glens Dale,1562198400,1562976000,Lauren Ayala
+Maintenance,Plumbing,91385 Jill Trail Suite 684,0.68 acres,Quinn Inc,7398 Young Meadow Falls,1562284800,1562889600,Brian Ochoa
+Maintenance,Mechanical,27501 Hall Trace,0.9 acres,Blair-Williams,2618 Marshall Summit Passage,1562284800,1563235200,Stephanie White
+Maintenance,Electrical,76974 Gilbert Hollow,2.32 acres,Lucero-Rich,6977 Ward Glens Dale,1562284800,1563580800,Stephanie White
+Building,Rennovation,007 Juan Rue Apt. 211,1.27 acres,Blair-Williams,2618 Marshall Summit Passage,1562371200,1564704000,Stephanie White
+Building,Rennovation,2487 Lindsey Station,0.76 acres,Roth-Garcia,5547 Schroeder Glens Courts,1562371200,1564012800,Brian Ochoa
+Maintenance,Plumbing,2232 Robert Village,2.23 acres,Bray Ltd,6147 Amanda Center Pines,1562371200,1563148800,Edward Woods
+Maintenance,Electrical,9674 Samuel Estate Apt. 986,0.75 acres,Lucero-Rich,6977 Ward Glens Dale,1562371200,1562976000,Lauren Ayala
+Building,New Construction,9838 Herrera Tunnel Suite 955,0.87 acres,Roth-Garcia,5547 Schroeder Glens Courts,1562457600,1563148800,Edward Woods
+Maintenance,Mechanical,036 Taylor Village,1.75 acres,Lawson Group,5562 Deleon Isle Expressway,1562457600,1563148800,Brian Ochoa
+Building,New Construction,265 Mathis Road,0.56 acres,Blair-Williams,2618 Marshall Summit Passage,1562457600,1563148800,Lauren Ayala
+Building,Rennovation,28854 Micheal Forge Suite 194,1.94 acres,Blair-Williams,2618 Marshall Summit Passage,1562544000,1564876800,Stephanie White
+Building,Rennovation,968 Hector Views,0.87 acres,Reese Ltd,2506 Johnson Garden Run,1562544000,1564531200,Brian Ochoa
+Maintenance,Mechanical,676 Gonzalez Circle Suite 625,0.86 acres,Blair-Williams,2618 Marshall Summit Passage,1562544000,1563148800,Edward Woods
+Building,Rennovation,2948 Nicholas Pine Suite 851,1.15 acres,Reese Ltd,2506 Johnson Garden Run,1562544000,1564531200,Edward Woods
+Maintenance,Electrical,3782 Suzanne Knoll,2.27 acres,Lucero-Rich,6977 Ward Glens Dale,1562630400,1563494400,Brian Ochoa
+Maintenance,Mechanical,0186 Jill Greens Suite 957,1.1 acres,Lawson Group,5562 Deleon Isle Expressway,1562716800,1563667200,Stephanie White
+Building,New Construction,29205 Lindsey Plains Suite 221,0.86 acres,Blair-Williams,2618 Marshall Summit Passage,1562716800,1563321600,Edward Woods
+Maintenance,Mechanical,031 Linda Stravenue,0.59 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562716800,1563321600,Edward Woods
+Maintenance,Plumbing,0226 Crawford Club Apt. 154,0.62 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562716800,1563494400,Stephanie White
+Building,Rennovation,831 Lisa Course,0.87 acres,Blair-Williams,2618 Marshall Summit Passage,1562716800,1564444800,Edward Woods
+Building,Rennovation,94718 Crystal Corners Suite 748,1.53 acres,Lucero-Rich,6977 Ward Glens Dale,1562803200,1564617600,Brian Ochoa
+Maintenance,Electrical,39260 Williams Squares,1.21 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562803200,1563408000,Lauren Ayala
+Maintenance,Plumbing,240 Barton Dale Apt. 111,0.63 acres,Roth-Garcia,5547 Schroeder Glens Courts,1562803200,1563235200,Edward Woods
+Maintenance,Electrical,17058 James Crescent Apt. 808,0.96 acres,Reese Ltd,2506 Johnson Garden Run,1562889600,1563321600,Brian Ochoa
+Building,New Construction,55233 Rocha Burgs Apt. 194,2.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562889600,1563753600,Lauren Ayala
+Building,New Construction,57483 Amanda Squares Apt. 906,1.49 acres,Lawson Group,5562 Deleon Isle Expressway,1562889600,1563580800,Lauren Ayala
+Building,Rennovation,495 Alison Ways,0.43 acres,Roth-Garcia,5547 Schroeder Glens Courts,1562889600,1565136000,Stephanie White
+Maintenance,Mechanical,234 Richardson Plaza,1.19 acres,Reese Ltd,2506 Johnson Garden Run,1562889600,1563753600,Lauren Ayala
+Building,New Construction,1399 Jill Club,1.45 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1562976000,1563753600,Edward Woods
+Maintenance,Mechanical,03067 Brittany Passage,1.32 acres,Bray Ltd,6147 Amanda Center Pines,1562976000,1563667200,Lauren Ayala
+Maintenance,Plumbing,1407 Miller Prairie,0.66 acres,Mercado and Sons,8410 Katie Heights Flats,1562976000,1563667200,Stephanie White
+Maintenance,Mechanical,89996 Dominic Wall,1.05 acres,Roth-Garcia,5547 Schroeder Glens Courts,1562976000,1563840000,Lauren Ayala
+Maintenance,Electrical,309 Carmen Via,1.45 acres,Reese Ltd,2506 Johnson Garden Run,1562976000,1564099200,Stephanie White
+Maintenance,Plumbing,84041 Deborah Courts Apt. 550,0.76 acres,Lucero-Rich,6977 Ward Glens Dale,1563062400,1563580800,Edward Woods
+Maintenance,Electrical,82215 Cain Greens,1.18 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563062400,1563753600,Lauren Ayala
+Maintenance,Mechanical,24258 Christopher Lane Apt. 254,0.95 acres,Bray Ltd,6147 Amanda Center Pines,1563062400,1563667200,Edward Woods
+Building,Rennovation,43267 Strong Row,0.84 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1563148800,1565308800,Stephanie White
+Building,Rennovation,740 Danny Divide,1.07 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1563148800,1564963200,Stephanie White
+Maintenance,Electrical,2972 Vega Shores Apt. 004,0.75 acres,Blair-Williams,2618 Marshall Summit Passage,1563148800,1563753600,Edward Woods
+Maintenance,Plumbing,9781 Amanda Island Suite 861,0.64 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563235200,1563667200,Lauren Ayala
+Maintenance,Mechanical,4298 Steele Harbor Suite 592,1.29 acres,Bray Ltd,6147 Amanda Center Pines,1563235200,1563926400,Edward Woods
+Maintenance,Plumbing,93702 Kane Pass Suite 562,0.91 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563235200,1563667200,Lauren Ayala
+Building,Rennovation,0679 Tran Overpass,1.23 acres,Reese Ltd,2506 Johnson Garden Run,1563235200,1565395200,Lauren Ayala
+Building,New Construction,17776 Jones Ridge,0.76 acres,Lucero-Rich,6977 Ward Glens Dale,1563235200,1563840000,Lauren Ayala
+Building,Rennovation,5586 Sarah Groves,1.18 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563235200,1565222400,Brian Ochoa
+Maintenance,Mechanical,73327 Matthew Village Apt. 191,1.1 acres,Lucero-Rich,6977 Ward Glens Dale,1563235200,1564272000,Stephanie White
+Building,New Construction,69675 Mitchell Run,1.39 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563321600,1564012800,Lauren Ayala
+Maintenance,Electrical,58293 Rebecca Stream Suite 680,0.45 acres,Quinn Inc,7398 Young Meadow Falls,1563321600,1563926400,Lauren Ayala
+Maintenance,Plumbing,2611 Kramer Walks,0.89 acres,Quinn Inc,7398 Young Meadow Falls,1563321600,1563753600,Brian Ochoa
+Maintenance,Plumbing,52393 Reed Crest Suite 746,0.94 acres,Lawson Group,5562 Deleon Isle Expressway,1563321600,1563840000,Edward Woods
+Building,Rennovation,8434 Kaiser River,0.8 acres,Lawson Group,5562 Deleon Isle Expressway,1563408000,1564963200,Edward Woods
+Maintenance,Mechanical,41222 Mitchell Fort Apt. 721,1.27 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1563408000,1564185600,Lauren Ayala
+Maintenance,Electrical,4016 Sherri Plain Suite 902,0.93 acres,Lawson Group,5562 Deleon Isle Expressway,1563408000,1564099200,Lauren Ayala
+Maintenance,Plumbing,57126 Bethany Plain Suite 225,1.15 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1563408000,1564012800,Brian Ochoa
+Maintenance,Plumbing,295 Mack Plains Suite 747,2.03 acres,Mercado and Sons,8410 Katie Heights Flats,1563408000,1564185600,Lauren Ayala
+Maintenance,Mechanical,67899 Lawson Causeway Suite 987,1.67 acres,Lucero-Rich,6977 Ward Glens Dale,1563494400,1564358400,Brian Ochoa
+Maintenance,Mechanical,4224 Ortiz Creek,0.71 acres,Blair-Williams,2618 Marshall Summit Passage,1563494400,1564099200,Edward Woods
+Building,Rennovation,01263 Murphy Forges,1.25 acres,Lucero-Rich,6977 Ward Glens Dale,1563580800,1565740800,Lauren Ayala
+Building,Rennovation,764 Rachel Park,0.85 acres,Blair-Williams,2618 Marshall Summit Passage,1563580800,1565395200,Brian Ochoa
+Building,Rennovation,1152 Walker Flats,1.3 acres,Quinn Inc,7398 Young Meadow Falls,1563580800,1565740800,Brian Ochoa
+Maintenance,Electrical,3645 Timothy Dale,1.14 acres,Bray Ltd,6147 Amanda Center Pines,1563667200,1564444800,Edward Woods
+Maintenance,Electrical,619 Barker Locks,1.54 acres,Quinn Inc,7398 Young Meadow Falls,1563667200,1564358400,Brian Ochoa
+Building,New Construction,7068 Bush Meadow Suite 458,0.81 acres,Blair-Williams,2618 Marshall Summit Passage,1563667200,1564531200,Stephanie White
+Building,Rennovation,8158 Williams Track Apt. 500,0.66 acres,Blair-Williams,2618 Marshall Summit Passage,1563753600,1565654400,Lauren Ayala
+Maintenance,Mechanical,836 Cooper Gardens,1.04 acres,Mercado and Sons,8410 Katie Heights Flats,1563926400,1564790400,Brian Ochoa
+Building,Rennovation,8447 Williams Creek Apt. 888,0.9 acres,Roth-Garcia,5547 Schroeder Glens Courts,1563926400,1566086400,Stephanie White
+Building,Rennovation,8027 Stewart Center Apt. 198,1.56 acres,Lawson Group,5562 Deleon Isle Expressway,1563926400,1566000000,Lauren Ayala
+Maintenance,Electrical,6472 Love Point Suite 850,1.51 acres,Blair-Williams,2618 Marshall Summit Passage,1564012800,1565136000,Stephanie White
+Building,Rennovation,655 Brandt Pine,0.42 acres,Lawson Group,5562 Deleon Isle Expressway,1564012800,1565913600,Stephanie White
+Building,Rennovation,10614 Christopher Wells,1.02 acres,Quinn Inc,7398 Young Meadow Falls,1564099200,1565913600,Lauren Ayala
+Building,New Construction,896 Gilbert Mount Suite 588,1.32 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564099200,1564876800,Edward Woods
+Building,New Construction,522 Day Stravenue,1.47 acres,Roth-Garcia,5547 Schroeder Glens Courts,1564099200,1564876800,Edward Woods
+Building,New Construction,420 Rodriguez Overpass Apt. 415,1.51 acres,Quinn Inc,7398 Young Meadow Falls,1564099200,1564876800,Edward Woods
+Building,New Construction,5840 Ronald Valley Apt. 387,1.29 acres,Quinn Inc,7398 Young Meadow Falls,1564185600,1565049600,Lauren Ayala
+Maintenance,Mechanical,50057 Livingston Land Apt. 965,1.9 acres,Lucero-Rich,6977 Ward Glens Dale,1564185600,1565222400,Stephanie White
+Maintenance,Plumbing,18799 Dawn Streets,1.01 acres,Lucero-Rich,6977 Ward Glens Dale,1564185600,1564790400,Lauren Ayala
+Maintenance,Electrical,2578 Jessica Isle Apt. 821,0.78 acres,Mercado and Sons,8410 Katie Heights Flats,1564185600,1564704000,Brian Ochoa
+Maintenance,Plumbing,5589 Miller Gardens Apt. 782,1.02 acres,Blair-Williams,2618 Marshall Summit Passage,1564185600,1565049600,Lauren Ayala
+Maintenance,Electrical,025 Jackie Village Suite 206,0.56 acres,Lucero-Rich,6977 Ward Glens Dale,1564185600,1564876800,Lauren Ayala
+Building,Rennovation,224 Thomas Stravenue,0.72 acres,Blair-Williams,2618 Marshall Summit Passage,1564272000,1566086400,Lauren Ayala
+Maintenance,Mechanical,5497 Colton Cliff Suite 879,1.26 acres,Bray Ltd,6147 Amanda Center Pines,1564272000,1564963200,Brian Ochoa
+Building,New Construction,724 Newman Club Apt. 601,0.84 acres,Quinn Inc,7398 Young Meadow Falls,1564358400,1564790400,Brian Ochoa
+Building,Rennovation,0847 Daniels Cliff,0.89 acres,Lucero-Rich,6977 Ward Glens Dale,1564358400,1565827200,Brian Ochoa
+Building,Rennovation,96053 Smith Gateway Suite 679,1.47 acres,Mercado and Sons,8410 Katie Heights Flats,1564358400,1566345600,Edward Woods
+Maintenance,Mechanical,889 Holmes Burgs Apt. 582,0.9 acres,Roth-Garcia,5547 Schroeder Glens Courts,1564358400,1564963200,Lauren Ayala
+Maintenance,Mechanical,4989 Johnson Inlet,0.82 acres,Lucero-Rich,6977 Ward Glens Dale,1564358400,1565136000,Edward Woods
+Maintenance,Electrical,67756 Morrison Lakes Apt. 867,0.99 acres,Reese Ltd,2506 Johnson Garden Run,1564358400,1565136000,Stephanie White
+Maintenance,Plumbing,8767 Ponce Burg,1.51 acres,Lawson Group,5562 Deleon Isle Expressway,1564358400,1565049600,Lauren Ayala
+Maintenance,Electrical,2166 Mikayla Motorway Suite 664,0.62 acres,Blair-Williams,2618 Marshall Summit Passage,1564444800,1564876800,Brian Ochoa
+Maintenance,Mechanical,1090 Wells Creek Suite 186,0.86 acres,Quinn Inc,7398 Young Meadow Falls,1564444800,1565222400,Lauren Ayala
+Maintenance,Mechanical,706 Woods Extensions Apt. 403,0.83 acres,Blair-Williams,2618 Marshall Summit Passage,1564444800,1565049600,Lauren Ayala
+Building,Rennovation,1720 Cochran Lock Suite 486,0.86 acres,Reese Ltd,2506 Johnson Garden Run,1564444800,1566345600,Lauren Ayala
+Maintenance,Mechanical,6138 Jennifer Terrace,0.75 acres,Bray Ltd,6147 Amanda Center Pines,1564444800,1565308800,Stephanie White
+Building,New Construction,951 Alyssa View Apt. 870,0.62 acres,Bray Ltd,6147 Amanda Center Pines,1564531200,1565136000,Lauren Ayala
+Building,New Construction,9329 Ricardo Springs,1.39 acres,Lucero-Rich,6977 Ward Glens Dale,1564531200,1565136000,Brian Ochoa
+Maintenance,Mechanical,6388 Smith Ramp,0.88 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564531200,1565136000,Edward Woods
+Maintenance,Electrical,877 Courtney Roads Apt. 855,1.63 acres,Blair-Williams,2618 Marshall Summit Passage,1564617600,1565395200,Lauren Ayala
+Maintenance,Plumbing,023 Madison Corners,1.01 acres,Bray Ltd,6147 Amanda Center Pines,1564617600,1565136000,Brian Ochoa
+Maintenance,Mechanical,539 Owens Plaza Apt. 652,0.51 acres,Blair-Williams,2618 Marshall Summit Passage,1564617600,1565308800,Lauren Ayala
+Building,Rennovation,2182 Dawn Village Suite 252,1.26 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564617600,1566345600,Brian Ochoa
+Building,Rennovation,550 Brett Mountain Apt. 492,0.87 acres,Roth-Garcia,5547 Schroeder Glens Courts,1564617600,1566518400,Stephanie White
+Maintenance,Mechanical,2828 Patricia Summit,0.62 acres,Quinn Inc,7398 Young Meadow Falls,1564704000,1565481600,Lauren Ayala
+Maintenance,Plumbing,21883 Patricia Lock Apt. 481,0.68 acres,Quinn Inc,7398 Young Meadow Falls,1564704000,1565136000,Brian Ochoa
+Building,Rennovation,7992 Walker Pike,1.37 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564704000,1566604800,Lauren Ayala
+Maintenance,Electrical,462 Jason Grove Apt. 282,1.07 acres,Reese Ltd,2506 Johnson Garden Run,1564790400,1565568000,Edward Woods
+Building,New Construction,737 Aaron Route Apt. 598,0.77 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564790400,1565308800,Edward Woods
+Maintenance,Plumbing,6585 Jackson Keys,0.93 acres,Bray Ltd,6147 Amanda Center Pines,1564790400,1565308800,Edward Woods
+Maintenance,Plumbing,434 Jeremy Crest Apt. 462,0.72 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1564790400,1565654400,Stephanie White
+Maintenance,Mechanical,0283 James Alley Apt. 598,1.4 acres,Bray Ltd,6147 Amanda Center Pines,1564876800,1565913600,Stephanie White
+Maintenance,Electrical,325 Andrews Island,1.08 acres,Reese Ltd,2506 Johnson Garden Run,1564876800,1565654400,Lauren Ayala
+Maintenance,Electrical,49888 Santos Light,0.56 acres,Lawson Group,5562 Deleon Isle Expressway,1564963200,1565308800,Brian Ochoa
+Maintenance,Mechanical,268 Michael Lake,0.98 acres,Lawson Group,5562 Deleon Isle Expressway,1564963200,1565481600,Lauren Ayala
+Maintenance,Mechanical,86822 Sloan Junctions Suite 161,0.98 acres,Reese Ltd,2506 Johnson Garden Run,1565049600,1565568000,Brian Ochoa
+Maintenance,Electrical,52521 Christina Ramp,1.17 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1565049600,1565654400,Brian Ochoa
+Building,Rennovation,32859 Carter Square,0.8 acres,Reese Ltd,2506 Johnson Garden Run,1565049600,1567123200,Stephanie White
+Building,New Construction,47169 Chris Mission,1.17 acres,Lawson Group,5562 Deleon Isle Expressway,1565049600,1565740800,Edward Woods
+Building,Rennovation,23958 Walker Hills,0.92 acres,Bray Ltd,6147 Amanda Center Pines,1565049600,1566691200,Lauren Ayala
+Maintenance,Mechanical,606 Connor Drive Suite 974,1.41 acres,Bray Ltd,6147 Amanda Center Pines,1565049600,1566172800,Stephanie White
+Maintenance,Plumbing,96544 Laura Walk Apt. 106,1.36 acres,Roth-Garcia,5547 Schroeder Glens Courts,1565049600,1565654400,Brian Ochoa
+Maintenance,Plumbing,2907 Kayla Park,0.75 acres,Quinn Inc,7398 Young Meadow Falls,1565136000,1565568000,Lauren Ayala
+Building,Rennovation,3457 Thompson Burg,1.5 acres,Mercado and Sons,8410 Katie Heights Flats,1565136000,1566864000,Brian Ochoa
+Maintenance,Plumbing,165 Andrews Station Suite 743,1.49 acres,Lawson Group,5562 Deleon Isle Expressway,1565136000,1565740800,Edward Woods
+Maintenance,Electrical,41233 Moreno Ranch,1.26 acres,Roth-Garcia,5547 Schroeder Glens Courts,1565222400,1565913600,Lauren Ayala
+Maintenance,Mechanical,999 Deborah Camp,0.69 acres,Lucero-Rich,6977 Ward Glens Dale,1565308800,1566345600,Stephanie White
+Maintenance,Electrical,933 Freeman Junctions,0.72 acres,Mercado and Sons,8410 Katie Heights Flats,1565308800,1565827200,Brian Ochoa
+Building,New Construction,76832 Darlene Lights Suite 533,0.71 acres,Bray Ltd,6147 Amanda Center Pines,1565395200,1566086400,Lauren Ayala
+Maintenance,Electrical,13021 Miguel Well Apt. 540,1.29 acres,Quinn Inc,7398 Young Meadow Falls,1565395200,1566172800,Lauren Ayala
+Building,Rennovation,40523 White Falls Suite 163,1.57 acres,Lucero-Rich,6977 Ward Glens Dale,1565395200,1567468800,Stephanie White
+Building,New Construction,33873 Archer Bypass,2.04 acres,Reese Ltd,2506 Johnson Garden Run,1565395200,1566259200,Edward Woods
+Maintenance,Plumbing,568 Hines Via,1.47 acres,Roth-Garcia,5547 Schroeder Glens Courts,1565481600,1566518400,Stephanie White
+Maintenance,Mechanical,0308 Blanchard Ports,1.43 acres,Lucero-Rich,6977 Ward Glens Dale,1565568000,1566432000,Edward Woods
+Building,New Construction,029 Lopez Harbors,0.98 acres,Mercado and Sons,8410 Katie Heights Flats,1565568000,1566086400,Edward Woods
+Building,New Construction,084 Shah Lake Suite 275,1.61 acres,Reese Ltd,2506 Johnson Garden Run,1565568000,1566518400,Stephanie White
+Maintenance,Plumbing,9386 Lindsey Path,1.09 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1565568000,1566259200,Edward Woods
+Maintenance,Mechanical,69640 Conley Burgs,0.87 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1565654400,1566432000,Lauren Ayala
+Maintenance,Electrical,8090 Reynolds Shoals Apt. 742,0.93 acres,Mercado and Sons,8410 Katie Heights Flats,1565654400,1566172800,Edward Woods
+Maintenance,Mechanical,465 Brown Lake,0.99 acres,Lawson Group,5562 Deleon Isle Expressway,1565654400,1566345600,Brian Ochoa
+Maintenance,Mechanical,444 Joshua Plains,1.33 acres,Roth-Garcia,5547 Schroeder Glens Courts,1565740800,1566604800,Lauren Ayala
+Building,New Construction,786 Tiffany Squares,1.13 acres,Reese Ltd,2506 Johnson Garden Run,1565740800,1566777600,Stephanie White
+Maintenance,Plumbing,322 Laura Locks Apt. 430,1.69 acres,Quinn Inc,7398 Young Meadow Falls,1565740800,1566518400,Stephanie White
+Building,Rennovation,00630 Hamilton Pine Suite 118,0.91 acres,Mercado and Sons,8410 Katie Heights Flats,1565827200,1567900800,Lauren Ayala
+Building,Rennovation,59007 Young Forks Suite 855,0.62 acres,Blair-Williams,2618 Marshall Summit Passage,1565913600,1568073600,Lauren Ayala
+Maintenance,Plumbing,366 Holmes Isle,1.24 acres,Bray Ltd,6147 Amanda Center Pines,1566000000,1566864000,Stephanie White
+Maintenance,Plumbing,70511 Herman Parkways,1.9 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566086400,1566777600,Lauren Ayala
+Building,Rennovation,702 Jessica Shore Suite 667,1.03 acres,Bray Ltd,6147 Amanda Center Pines,1566086400,1568160000,Brian Ochoa
+Maintenance,Mechanical,57866 Derek Pine,1.0 acres,Lucero-Rich,6977 Ward Glens Dale,1566086400,1566604800,Brian Ochoa
+Maintenance,Plumbing,04668 Baker Summit,1.81 acres,Blair-Williams,2618 Marshall Summit Passage,1566172800,1566604800,Brian Ochoa
+Building,Rennovation,4118 Anderson Cape,0.72 acres,Blair-Williams,2618 Marshall Summit Passage,1566172800,1567987200,Brian Ochoa
+Building,Rennovation,384 Danielle Ridges Apt. 837,1.09 acres,Blair-Williams,2618 Marshall Summit Passage,1566259200,1568419200,Brian Ochoa
+Maintenance,Electrical,3954 Cortez Junction Apt. 260,1.46 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566259200,1566950400,Brian Ochoa
+Building,New Construction,75746 Lewis Turnpike Apt. 478,1.03 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566259200,1566950400,Edward Woods
+Maintenance,Electrical,108 Ashley Loop,2.28 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566259200,1566950400,Brian Ochoa
+Building,New Construction,2531 James Forks Apt. 287,0.67 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566259200,1567036800,Stephanie White
+Maintenance,Mechanical,02560 William Fields,0.99 acres,Bray Ltd,6147 Amanda Center Pines,1566259200,1566864000,Brian Ochoa
+Building,Rennovation,6658 Owens Turnpike,0.49 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566345600,1568160000,Edward Woods
+Building,Rennovation,7519 Martin Vista,1.98 acres,Blair-Williams,2618 Marshall Summit Passage,1566345600,1568160000,Lauren Ayala
+Maintenance,Electrical,4765 Moore Stream Apt. 683,1.46 acres,Bray Ltd,6147 Amanda Center Pines,1566345600,1567123200,Lauren Ayala
+Maintenance,Electrical,32790 Hernandez Glen,1.25 acres,Quinn Inc,7398 Young Meadow Falls,1566345600,1567123200,Edward Woods
+Maintenance,Electrical,7165 Paul Plain Apt. 138,0.47 acres,Bray Ltd,6147 Amanda Center Pines,1566432000,1566950400,Brian Ochoa
+Maintenance,Electrical,876 Jason Glens,0.9 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566432000,1567036800,Lauren Ayala
+Building,New Construction,68701 Perez Parks Suite 549,1.64 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566432000,1567123200,Brian Ochoa
+Maintenance,Electrical,9271 Craig Burg,0.53 acres,Mercado and Sons,8410 Katie Heights Flats,1566432000,1567036800,Edward Woods
+Building,Rennovation,81036 Susan Branch,0.47 acres,Mercado and Sons,8410 Katie Heights Flats,1566518400,1567987200,Brian Ochoa
+Maintenance,Plumbing,47722 Julie Court,0.58 acres,Reese Ltd,2506 Johnson Garden Run,1566518400,1567209600,Lauren Ayala
+Maintenance,Plumbing,710 Rivera Route Suite 162,1.61 acres,Quinn Inc,7398 Young Meadow Falls,1566518400,1567123200,Lauren Ayala
+Maintenance,Plumbing,05321 Brandon Junction Apt. 063,2.35 acres,Blair-Williams,2618 Marshall Summit Passage,1566518400,1567209600,Brian Ochoa
+Building,Rennovation,1019 Emily Heights Apt. 135,1.32 acres,Mercado and Sons,8410 Katie Heights Flats,1566518400,1568592000,Lauren Ayala
+Building,New Construction,768 Mitchell Mews,0.77 acres,Reese Ltd,2506 Johnson Garden Run,1566604800,1567209600,Edward Woods
+Building,Rennovation,9660 Stewart Keys,1.13 acres,Reese Ltd,2506 Johnson Garden Run,1566604800,1568678400,Edward Woods
+Maintenance,Electrical,6454 Ortiz Alley,0.85 acres,Quinn Inc,7398 Young Meadow Falls,1566604800,1567123200,Brian Ochoa
+Building,Rennovation,7354 Robinson Isle Suite 380,1.36 acres,Quinn Inc,7398 Young Meadow Falls,1566691200,1568246400,Brian Ochoa
+Maintenance,Plumbing,4793 Chad Garden Suite 249,0.68 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566691200,1567641600,Stephanie White
+Building,Rennovation,6441 Barber Parkway Suite 473,0.57 acres,Blair-Williams,2618 Marshall Summit Passage,1566691200,1568505600,Brian Ochoa
+Maintenance,Mechanical,2592 King Views Suite 348,0.47 acres,Quinn Inc,7398 Young Meadow Falls,1566777600,1567382400,Edward Woods
+Maintenance,Mechanical,085 Brian Vista,0.97 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566777600,1567296000,Brian Ochoa
+Maintenance,Electrical,4172 Mercado Skyway,0.72 acres,Bray Ltd,6147 Amanda Center Pines,1566777600,1567382400,Lauren Ayala
+Maintenance,Electrical,6806 Baker Hollow,0.91 acres,Quinn Inc,7398 Young Meadow Falls,1566777600,1567209600,Edward Woods
+Maintenance,Electrical,03022 Christine Branch Suite 308,0.77 acres,Roth-Garcia,5547 Schroeder Glens Courts,1566864000,1567728000,Stephanie White
+Maintenance,Electrical,396 Alexis Bridge,0.81 acres,Mercado and Sons,8410 Katie Heights Flats,1566864000,1567728000,Stephanie White
+Building,New Construction,44774 Allen Mall Apt. 283,1.18 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1566950400,1567814400,Edward Woods
+Maintenance,Plumbing,132 Warren Inlet,1.25 acres,Mercado and Sons,8410 Katie Heights Flats,1567036800,1567987200,Stephanie White
+Maintenance,Plumbing,45094 Romero Union Suite 679,0.89 acres,Mercado and Sons,8410 Katie Heights Flats,1567036800,1567814400,Stephanie White
+Building,New Construction,406 Long Corners Suite 711,1.09 acres,Lawson Group,5562 Deleon Isle Expressway,1567036800,1567814400,Edward Woods
+Maintenance,Electrical,6144 Whitaker Greens,1.88 acres,Reese Ltd,2506 Johnson Garden Run,1567036800,1567987200,Stephanie White
+Maintenance,Plumbing,5632 Tiffany Motorway,1.17 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1567123200,1567900800,Stephanie White
+Maintenance,Plumbing,2112 Jackson Turnpike,0.49 acres,Bray Ltd,6147 Amanda Center Pines,1567123200,1567555200,Edward Woods
+Maintenance,Electrical,84796 Goodman Way Suite 677,0.99 acres,Bray Ltd,6147 Amanda Center Pines,1567123200,1567555200,Brian Ochoa
+Building,Rennovation,65394 Lori Brooks,1.06 acres,Blair-Williams,2618 Marshall Summit Passage,1567209600,1569196800,Brian Ochoa
+Maintenance,Mechanical,35093 Arroyo Vista,1.06 acres,Reese Ltd,2506 Johnson Garden Run,1567209600,1567900800,Lauren Ayala
+Maintenance,Plumbing,3406 Holly Freeway,0.55 acres,Quinn Inc,7398 Young Meadow Falls,1567209600,1567728000,Edward Woods
+Maintenance,Mechanical,447 Tanya Lodge,2.38 acres,Bray Ltd,6147 Amanda Center Pines,1567209600,1568073600,Brian Ochoa
+Maintenance,Electrical,85953 Avila Park Apt. 277,1.12 acres,Blair-Williams,2618 Marshall Summit Passage,1567296000,1567900800,Lauren Ayala
+Building,Rennovation,956 Jennifer Ports Suite 443,1.86 acres,Blair-Williams,2618 Marshall Summit Passage,1567296000,1569196800,Stephanie White
+Building,New Construction,5379 Nicole Via,0.54 acres,Bray Ltd,6147 Amanda Center Pines,1567382400,1568160000,Stephanie White
+Building,New Construction,5248 Crystal Haven Suite 574,0.96 acres,Mercado and Sons,8410 Katie Heights Flats,1567468800,1568073600,Edward Woods
+Maintenance,Plumbing,4157 Ryan Place,0.63 acres,Roth-Garcia,5547 Schroeder Glens Courts,1567468800,1567987200,Lauren Ayala
+Maintenance,Mechanical,622 Garcia Plains Suite 994,0.59 acres,Roth-Garcia,5547 Schroeder Glens Courts,1567555200,1568160000,Lauren Ayala
+Maintenance,Electrical,01385 Farmer Spur Suite 307,1.34 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1567555200,1568332800,Edward Woods
+Maintenance,Mechanical,691 Marshall Plain,1.42 acres,Reese Ltd,2506 Johnson Garden Run,1567641600,1568419200,Edward Woods
+Maintenance,Mechanical,4566 Mills Route Suite 256,1.35 acres,Lucero-Rich,6977 Ward Glens Dale,1567641600,1568419200,Lauren Ayala
+Maintenance,Electrical,11129 Brandon Mill Suite 768,0.54 acres,Blair-Williams,2618 Marshall Summit Passage,1567641600,1568160000,Edward Woods
+Maintenance,Plumbing,449 Robert Squares,1.51 acres,Roth-Garcia,5547 Schroeder Glens Courts,1567641600,1568332800,Edward Woods
+Building,New Construction,8819 Anne Bypass,1.44 acres,Blair-Williams,2618 Marshall Summit Passage,1567641600,1568332800,Brian Ochoa
+Maintenance,Plumbing,5236 Grant Ports,2.13 acres,Reese Ltd,2506 Johnson Garden Run,1567728000,1568505600,Brian Ochoa
+Maintenance,Mechanical,4957 Breanna Vista Apt. 555,1.0 acres,Roth-Garcia,5547 Schroeder Glens Courts,1567728000,1568505600,Edward Woods
+Maintenance,Electrical,480 William Wells Suite 355,0.53 acres,Lucero-Rich,6977 Ward Glens Dale,1567728000,1568332800,Lauren Ayala
+Maintenance,Plumbing,30680 Richardson Squares,1.05 acres,Reese Ltd,2506 Johnson Garden Run,1567728000,1568592000,Lauren Ayala
+Building,Rennovation,615 Sharp Haven,1.43 acres,Lucero-Rich,6977 Ward Glens Dale,1567814400,1570147200,Stephanie White
+Maintenance,Plumbing,250 Burch River,0.63 acres,Quinn Inc,7398 Young Meadow Falls,1567900800,1568332800,Lauren Ayala
+Building,Rennovation,18033 Mindy Mountain Apt. 380,1.06 acres,Lucero-Rich,6977 Ward Glens Dale,1567900800,1570060800,Edward Woods
+Maintenance,Plumbing,82584 Sharon Crossroad Suite 803,1.76 acres,Quinn Inc,7398 Young Meadow Falls,1567900800,1568505600,Brian Ochoa
+Maintenance,Electrical,601 Richardson Parkways,0.93 acres,Lawson Group,5562 Deleon Isle Expressway,1567900800,1568332800,Lauren Ayala
+Building,Rennovation,77757 Brown Neck,1.12 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1567987200,1569888000,Stephanie White
+Maintenance,Mechanical,9830 Burke Valley,0.8 acres,Lucero-Rich,6977 Ward Glens Dale,1567987200,1568678400,Lauren Ayala
+Maintenance,Plumbing,49222 Taylor Station,0.85 acres,Lucero-Rich,6977 Ward Glens Dale,1567987200,1568332800,Brian Ochoa
+Building,New Construction,9367 Price Manor,0.67 acres,Reese Ltd,2506 Johnson Garden Run,1568073600,1568937600,Stephanie White
+Building,New Construction,483 Ochoa Prairie Suite 995,2.15 acres,Bray Ltd,6147 Amanda Center Pines,1568073600,1568937600,Edward Woods
+Maintenance,Electrical,9608 Calhoun Hills,0.33 acres,Mercado and Sons,8410 Katie Heights Flats,1568073600,1568937600,Stephanie White
+Maintenance,Electrical,0956 Vickie Mission Suite 203,1.27 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568160000,1568937600,Lauren Ayala
+Building,Rennovation,2401 Joseph Orchard,0.75 acres,Roth-Garcia,5547 Schroeder Glens Courts,1568160000,1570233600,Stephanie White
+Building,Rennovation,804 Rodriguez Loaf Apt. 742,0.43 acres,Reese Ltd,2506 Johnson Garden Run,1568160000,1569801600,Brian Ochoa
+Maintenance,Plumbing,863 Wagner Groves Suite 249,1.37 acres,Reese Ltd,2506 Johnson Garden Run,1568246400,1568764800,Brian Ochoa
+Maintenance,Plumbing,5268 Parker Islands,1.06 acres,Mercado and Sons,8410 Katie Heights Flats,1568246400,1568851200,Lauren Ayala
+Maintenance,Mechanical,3166 Willis Parkway,0.79 acres,Bray Ltd,6147 Amanda Center Pines,1568246400,1568851200,Lauren Ayala
+Building,Rennovation,538 Darryl Mountains Apt. 132,1.47 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568246400,1570752000,Stephanie White
+Maintenance,Plumbing,180 Griffin Loop Suite 681,1.21 acres,Lawson Group,5562 Deleon Isle Expressway,1568246400,1568937600,Lauren Ayala
+Building,Rennovation,31055 Jason Knolls Suite 803,1.34 acres,Quinn Inc,7398 Young Meadow Falls,1568332800,1570665600,Lauren Ayala
+Maintenance,Electrical,5302 Morales Spur,1.16 acres,Blair-Williams,2618 Marshall Summit Passage,1568332800,1569369600,Stephanie White
+Building,Rennovation,807 Young Parkways,0.59 acres,Reese Ltd,2506 Johnson Garden Run,1568419200,1570406400,Stephanie White
+Building,New Construction,72336 Katrina Ways Suite 158,1.28 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568419200,1569024000,Brian Ochoa
+Building,Rennovation,919 Karen Road,0.98 acres,Bray Ltd,6147 Amanda Center Pines,1568419200,1570579200,Stephanie White
+Maintenance,Mechanical,799 James Plains Apt. 451,0.58 acres,Reese Ltd,2506 Johnson Garden Run,1568419200,1568937600,Brian Ochoa
+Maintenance,Mechanical,42768 Knight Plaza,0.88 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568592000,1569196800,Lauren Ayala
+Maintenance,Electrical,0854 Stephanie Rapid,0.82 acres,Roth-Garcia,5547 Schroeder Glens Courts,1568592000,1569196800,Lauren Ayala
+Maintenance,Plumbing,810 Melissa Lock,0.87 acres,Quinn Inc,7398 Young Meadow Falls,1568678400,1569110400,Lauren Ayala
+Maintenance,Electrical,938 Jackson Lakes Apt. 960,1.04 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568678400,1569369600,Edward Woods
+Maintenance,Mechanical,1293 Stephen Freeway,2.42 acres,Blair-Williams,2618 Marshall Summit Passage,1568764800,1569628800,Brian Ochoa
+Maintenance,Plumbing,75436 Case Roads Suite 435,1.96 acres,Quinn Inc,7398 Young Meadow Falls,1568764800,1569369600,Brian Ochoa
+Maintenance,Mechanical,057 Debra Ramp,0.57 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1568764800,1569542400,Stephanie White
+Building,New Construction,573 Townsend Forks,1.32 acres,Lucero-Rich,6977 Ward Glens Dale,1568764800,1569456000,Brian Ochoa
+Maintenance,Plumbing,54175 Rodriguez Fork,1.43 acres,Roth-Garcia,5547 Schroeder Glens Courts,1568764800,1569801600,Stephanie White
+Maintenance,Plumbing,145 Laura Ferry Suite 022,0.93 acres,Mercado and Sons,8410 Katie Heights Flats,1568851200,1569456000,Brian Ochoa
+Building,Rennovation,4066 Ross Track,1.02 acres,Mercado and Sons,8410 Katie Heights Flats,1568937600,1571097600,Lauren Ayala
+Building,New Construction,959 Taylor Tunnel,1.15 acres,Reese Ltd,2506 Johnson Garden Run,1568937600,1569715200,Edward Woods
+Maintenance,Electrical,075 Dunn Mountain Suite 360,0.88 acres,Reese Ltd,2506 Johnson Garden Run,1568937600,1569456000,Lauren Ayala
+Building,New Construction,8891 Aguirre Dam Apt. 569,1.19 acres,Bray Ltd,6147 Amanda Center Pines,1569024000,1569801600,Lauren Ayala
+Maintenance,Mechanical,152 William Shore Suite 147,0.48 acres,Blair-Williams,2618 Marshall Summit Passage,1569024000,1569628800,Edward Woods
+Maintenance,Plumbing,81328 David Court Apt. 748,1.82 acres,Reese Ltd,2506 Johnson Garden Run,1569024000,1569715200,Brian Ochoa
+Building,Rennovation,858 Frank Crossroad Suite 293,0.57 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569024000,1570924800,Stephanie White
+Building,Rennovation,9892 Mcbride Ridge,2.26 acres,Quinn Inc,7398 Young Meadow Falls,1569110400,1571097600,Edward Woods
+Maintenance,Electrical,02124 Lin Track Suite 478,1.18 acres,Lawson Group,5562 Deleon Isle Expressway,1569110400,1569801600,Edward Woods
+Maintenance,Mechanical,50794 Perry Manor Apt. 288,1.91 acres,Reese Ltd,2506 Johnson Garden Run,1569196800,1570406400,Stephanie White
+Building,New Construction,8186 Montgomery View,0.62 acres,Blair-Williams,2618 Marshall Summit Passage,1569196800,1569888000,Stephanie White
+Maintenance,Mechanical,68538 Graham Square Apt. 948,1.01 acres,Bray Ltd,6147 Amanda Center Pines,1569196800,1569888000,Brian Ochoa
+Maintenance,Mechanical,73536 Sherman Shores,1.28 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569196800,1569974400,Lauren Ayala
+Maintenance,Plumbing,844 Williams Circle,0.81 acres,Lucero-Rich,6977 Ward Glens Dale,1569283200,1569974400,Stephanie White
+Maintenance,Mechanical,646 Larry Avenue Suite 663,2.12 acres,Reese Ltd,2506 Johnson Garden Run,1569283200,1570492800,Stephanie White
+Maintenance,Plumbing,90794 Clark Fort Suite 694,0.54 acres,Quinn Inc,7398 Young Meadow Falls,1569283200,1570060800,Stephanie White
+Maintenance,Plumbing,82116 Taylor Rest,0.94 acres,Mercado and Sons,8410 Katie Heights Flats,1569283200,1569974400,Stephanie White
+Maintenance,Mechanical,54163 Aguirre Parkways Suite 670,0.5 acres,Reese Ltd,2506 Johnson Garden Run,1569369600,1570233600,Stephanie White
+Maintenance,Electrical,3505 Jennifer Islands Suite 757,0.8 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1569369600,1570233600,Stephanie White
+Building,Rennovation,478 Bowman Cove Suite 108,0.95 acres,Reese Ltd,2506 Johnson Garden Run,1569456000,1571529600,Brian Ochoa
+Building,New Construction,5685 Sanchez Centers,1.86 acres,Lucero-Rich,6977 Ward Glens Dale,1569456000,1570147200,Edward Woods
+Maintenance,Plumbing,7786 Mitchell Ridge Apt. 197,1.74 acres,Quinn Inc,7398 Young Meadow Falls,1569456000,1570060800,Lauren Ayala
+Building,New Construction,9842 Weber Fork,1.29 acres,Lawson Group,5562 Deleon Isle Expressway,1569542400,1570492800,Stephanie White
+Maintenance,Electrical,20934 Richardson Meadows,1.13 acres,Mercado and Sons,8410 Katie Heights Flats,1569542400,1570147200,Lauren Ayala
+Building,Rennovation,206 Brian Pine,0.46 acres,Blair-Williams,2618 Marshall Summit Passage,1569542400,1571529600,Brian Ochoa
+Maintenance,Electrical,793 Pierce Path,0.7 acres,Blair-Williams,2618 Marshall Summit Passage,1569542400,1570147200,Lauren Ayala
+Building,New Construction,798 Chelsea Estates Suite 303,1.55 acres,Bray Ltd,6147 Amanda Center Pines,1569542400,1570147200,Brian Ochoa
+Maintenance,Plumbing,7976 Mendoza Mountains Apt. 183,1.33 acres,Bray Ltd,6147 Amanda Center Pines,1569542400,1570233600,Edward Woods
+Building,Rennovation,960 Walters Ports Suite 839,1.04 acres,Quinn Inc,7398 Young Meadow Falls,1569628800,1571788800,Edward Woods
+Maintenance,Electrical,359 Tom Orchard Apt. 960,0.84 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569628800,1570233600,Edward Woods
+Maintenance,Mechanical,79092 Castillo Junction Suite 915,1.68 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569628800,1570838400,Stephanie White
+Building,New Construction,8799 Alexander Parks,0.7 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1569628800,1570060800,Edward Woods
+Building,New Construction,03428 Jenna Vista,1.46 acres,Reese Ltd,2506 Johnson Garden Run,1569628800,1570320000,Edward Woods
+Maintenance,Mechanical,86318 White Mission,1.08 acres,Quinn Inc,7398 Young Meadow Falls,1569715200,1570320000,Brian Ochoa
+Maintenance,Plumbing,25360 Lindsay Squares,1.49 acres,Mercado and Sons,8410 Katie Heights Flats,1569715200,1570406400,Edward Woods
+Maintenance,Mechanical,08676 Lisa Crest,1.16 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569715200,1570406400,Edward Woods
+Maintenance,Electrical,8891 Robinson Ford,1.08 acres,Lucero-Rich,6977 Ward Glens Dale,1569715200,1570665600,Stephanie White
+Maintenance,Mechanical,35242 Watkins Springs Apt. 702,0.89 acres,Roth-Garcia,5547 Schroeder Glens Courts,1569801600,1570579200,Edward Woods
+Maintenance,Mechanical,4767 Silva Path,0.77 acres,Blair-Williams,2618 Marshall Summit Passage,1569801600,1570752000,Stephanie White
+Building,New Construction,185 Zachary Underpass,1.14 acres,Bray Ltd,6147 Amanda Center Pines,1569888000,1570665600,Lauren Ayala
+Building,Rennovation,497 Mark Extensions,2.17 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1569888000,1572220800,Lauren Ayala
+Maintenance,Mechanical,2126 William Landing,1.76 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1569888000,1570838400,Edward Woods
+Maintenance,Plumbing,3061 Turner Circles Apt. 218,0.59 acres,Mercado and Sons,8410 Katie Heights Flats,1569888000,1570665600,Stephanie White
+Maintenance,Electrical,620 Jeremy Inlet,0.43 acres,Lucero-Rich,6977 Ward Glens Dale,1569974400,1570838400,Stephanie White
+Maintenance,Mechanical,35269 Courtney Plaza Suite 793,0.96 acres,Lawson Group,5562 Deleon Isle Expressway,1569974400,1570492800,Edward Woods
+Maintenance,Mechanical,18962 Walters Run Suite 437,1.08 acres,Bray Ltd,6147 Amanda Center Pines,1569974400,1570579200,Brian Ochoa
+Building,New Construction,915 Rhonda Brook,1.22 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1570060800,1570838400,Lauren Ayala
+Building,Rennovation,781 Olson Parkway,1.52 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570060800,1571788800,Edward Woods
+Maintenance,Electrical,25212 Lauren Trail Suite 713,0.68 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1570060800,1570665600,Lauren Ayala
+Maintenance,Mechanical,41251 Teresa Fort Suite 542,1.66 acres,Quinn Inc,7398 Young Meadow Falls,1570060800,1571270400,Stephanie White
+Maintenance,Electrical,51801 Adkins Crescent Suite 251,0.62 acres,Bray Ltd,6147 Amanda Center Pines,1570147200,1570752000,Lauren Ayala
+Maintenance,Plumbing,22660 Jennifer Parkways,0.77 acres,Quinn Inc,7398 Young Meadow Falls,1570147200,1570752000,Edward Woods
+Building,New Construction,7219 Jane Meadow Suite 788,1.2 acres,Reese Ltd,2506 Johnson Garden Run,1570147200,1570924800,Lauren Ayala
+Maintenance,Plumbing,6677 James Harbor,1.23 acres,Mercado and Sons,8410 Katie Heights Flats,1570147200,1571011200,Edward Woods
+Maintenance,Mechanical,0538 Robert Shoal,0.69 acres,Lawson Group,5562 Deleon Isle Expressway,1570233600,1570838400,Lauren Ayala
+Building,Rennovation,1496 George Vista,2.18 acres,Quinn Inc,7398 Young Meadow Falls,1570233600,1572912000,Stephanie White
+Building,Rennovation,827 Christopher Mills,1.75 acres,Quinn Inc,7398 Young Meadow Falls,1570233600,1572220800,Lauren Ayala
+Maintenance,Mechanical,0107 Nancy Lights Suite 073,0.68 acres,Bray Ltd,6147 Amanda Center Pines,1570233600,1570838400,Lauren Ayala
+Maintenance,Mechanical,27563 Curry Plains,1.12 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570320000,1571443200,Stephanie White
+Maintenance,Electrical,73254 Duncan Square Suite 821,0.58 acres,Blair-Williams,2618 Marshall Summit Passage,1570320000,1570752000,Brian Ochoa
+Building,New Construction,9067 Jeffrey Parkway Apt. 351,2.52 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570406400,1571184000,Lauren Ayala
+Maintenance,Mechanical,481 Ricky Lock Suite 213,0.62 acres,Blair-Williams,2618 Marshall Summit Passage,1570406400,1570924800,Brian Ochoa
+Maintenance,Electrical,2320 John Brooks Suite 827,0.63 acres,Lawson Group,5562 Deleon Isle Expressway,1570492800,1570838400,Brian Ochoa
+Maintenance,Plumbing,244 Kyle Island Apt. 673,0.71 acres,Lucero-Rich,6977 Ward Glens Dale,1570579200,1571443200,Stephanie White
+Building,Rennovation,0970 Peterson Mission,0.64 acres,Mercado and Sons,8410 Katie Heights Flats,1570579200,1572393600,Brian Ochoa
+Building,Rennovation,2365 Rachel Manor,0.47 acres,Lucero-Rich,6977 Ward Glens Dale,1570579200,1572220800,Lauren Ayala
+Building,Rennovation,473 Cook Overpass Suite 239,0.65 acres,Bray Ltd,6147 Amanda Center Pines,1570579200,1572739200,Stephanie White
+Maintenance,Electrical,64878 Kathryn View,0.75 acres,Lucero-Rich,6977 Ward Glens Dale,1570579200,1571184000,Brian Ochoa
+Maintenance,Mechanical,05048 Chelsey Grove Suite 108,0.55 acres,Bray Ltd,6147 Amanda Center Pines,1570579200,1571270400,Lauren Ayala
+Maintenance,Electrical,515 Glover Well Suite 485,1.5 acres,Bray Ltd,6147 Amanda Center Pines,1570665600,1571270400,Brian Ochoa
+Building,New Construction,779 Barker Club,0.39 acres,Bray Ltd,6147 Amanda Center Pines,1570665600,1571270400,Lauren Ayala
+Building,Rennovation,71394 Michelle Canyon,1.07 acres,Reese Ltd,2506 Johnson Garden Run,1570752000,1572480000,Edward Woods
+Maintenance,Electrical,066 Charles Brooks Suite 720,1.11 acres,Bray Ltd,6147 Amanda Center Pines,1570752000,1571356800,Edward Woods
+Building,New Construction,037 Joseph Light Suite 356,0.79 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570752000,1571270400,Lauren Ayala
+Maintenance,Mechanical,8505 Sanchez Overpass,1.36 acres,Bray Ltd,6147 Amanda Center Pines,1570752000,1571961600,Stephanie White
+Building,Rennovation,857 Robert Mountains,1.31 acres,Mercado and Sons,8410 Katie Heights Flats,1570838400,1572652800,Edward Woods
+Maintenance,Mechanical,97190 Garner Harbor Apt. 431,0.55 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570838400,1571356800,Brian Ochoa
+Building,New Construction,59444 Vaughan River,1.0 acres,Roth-Garcia,5547 Schroeder Glens Courts,1570838400,1571356800,Edward Woods
+Building,Rennovation,26932 Parks Village,0.71 acres,Lucero-Rich,6977 Ward Glens Dale,1570924800,1572652800,Brian Ochoa
+Maintenance,Plumbing,83452 Travis Corners,2.02 acres,Blair-Williams,2618 Marshall Summit Passage,1570924800,1571875200,Stephanie White
+Maintenance,Plumbing,5933 Montgomery Manors Suite 142,0.55 acres,Lawson Group,5562 Deleon Isle Expressway,1570924800,1571356800,Edward Woods
+Maintenance,Electrical,25312 Johnson Union Suite 887,0.96 acres,Lawson Group,5562 Deleon Isle Expressway,1570924800,1571702400,Stephanie White
+Maintenance,Mechanical,9477 Murphy Islands Suite 095,1.64 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571011200,1571788800,Brian Ochoa
+Building,Rennovation,40130 Natalie Plains Suite 798,0.35 acres,Reese Ltd,2506 Johnson Garden Run,1571011200,1573257600,Stephanie White
+Building,Rennovation,4391 Ramirez Unions Suite 104,1.31 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571097600,1573430400,Stephanie White
+Building,New Construction,8743 Jacobson Knolls Suite 544,1.04 acres,Lawson Group,5562 Deleon Isle Expressway,1571097600,1571788800,Brian Ochoa
+Building,New Construction,3760 Davidson Valleys Suite 332,1.71 acres,Reese Ltd,2506 Johnson Garden Run,1571097600,1571788800,Brian Ochoa
+Maintenance,Electrical,4798 Richard Ranch Apt. 581,2.63 acres,Bray Ltd,6147 Amanda Center Pines,1571097600,1572134400,Stephanie White
+Maintenance,Plumbing,6987 Emily Track Apt. 024,0.87 acres,Blair-Williams,2618 Marshall Summit Passage,1571097600,1571875200,Stephanie White
+Maintenance,Mechanical,4133 Walker Course,1.23 acres,Lawson Group,5562 Deleon Isle Expressway,1571184000,1571875200,Lauren Ayala
+Maintenance,Mechanical,9780 Dylan Fort,1.68 acres,Lawson Group,5562 Deleon Isle Expressway,1571184000,1571961600,Edward Woods
+Maintenance,Mechanical,4162 Mary Rue,1.29 acres,Bray Ltd,6147 Amanda Center Pines,1571270400,1572307200,Stephanie White
+Maintenance,Mechanical,7751 Paula Dam Suite 634,1.29 acres,Lucero-Rich,6977 Ward Glens Dale,1571270400,1572134400,Edward Woods
+Building,Rennovation,67803 Rodriguez Plains,1.15 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571356800,1573430400,Stephanie White
+Building,New Construction,48321 Samantha Points Suite 991,1.85 acres,Blair-Williams,2618 Marshall Summit Passage,1571356800,1572048000,Brian Ochoa
+Maintenance,Electrical,473 Casey Throughway,0.74 acres,Reese Ltd,2506 Johnson Garden Run,1571356800,1571788800,Brian Ochoa
+Maintenance,Plumbing,986 Rodney Courts Suite 603,1.74 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1571356800,1572134400,Lauren Ayala
+Building,New Construction,598 Hudson Common,0.63 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1571356800,1571961600,Edward Woods
+Building,New Construction,11696 Webb Summit Apt. 780,1.21 acres,Quinn Inc,7398 Young Meadow Falls,1571443200,1571961600,Brian Ochoa
+Maintenance,Electrical,0545 Lauren Point Apt. 656,1.79 acres,Reese Ltd,2506 Johnson Garden Run,1571443200,1572048000,Brian Ochoa
+Maintenance,Mechanical,2811 Thomas Lodge,0.78 acres,Mercado and Sons,8410 Katie Heights Flats,1571443200,1572048000,Edward Woods
+Maintenance,Mechanical,6235 Susan Extension,0.99 acres,Quinn Inc,7398 Young Meadow Falls,1571443200,1572048000,Lauren Ayala
+Building,Rennovation,2630 Jesus Mills,1.11 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1571529600,1573603200,Edward Woods
+Maintenance,Electrical,52797 John Cliffs Apt. 195,1.9 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571616000,1572566400,Stephanie White
+Maintenance,Electrical,4986 Carey Stravenue,1.11 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1571616000,1572393600,Edward Woods
+Building,New Construction,29834 Kevin Alley,0.6 acres,Mercado and Sons,8410 Katie Heights Flats,1571616000,1572220800,Edward Woods
+Building,Rennovation,06998 Kimberly Rue,3.78 acres,Lawson Group,5562 Deleon Isle Expressway,1571616000,1574035200,Stephanie White
+Building,Rennovation,038 Daniel Rest,0.78 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571702400,1573689600,Brian Ochoa
+Building,New Construction,6884 Ortiz Crossroad,0.92 acres,Bray Ltd,6147 Amanda Center Pines,1571702400,1572220800,Brian Ochoa
+Building,Rennovation,06741 Lori Grove Suite 784,0.99 acres,Mercado and Sons,8410 Katie Heights Flats,1571702400,1573084800,Brian Ochoa
+Building,Rennovation,210 Michael Island,1.24 acres,Mercado and Sons,8410 Katie Heights Flats,1571788800,1573862400,Lauren Ayala
+Maintenance,Mechanical,45250 Wilson Points Suite 610,2.1 acres,Bray Ltd,6147 Amanda Center Pines,1571788800,1572566400,Brian Ochoa
+Building,New Construction,850 Campbell Landing,0.88 acres,Bray Ltd,6147 Amanda Center Pines,1571788800,1572480000,Stephanie White
+Maintenance,Plumbing,369 Dillon Plain Suite 296,0.75 acres,Lucero-Rich,6977 Ward Glens Dale,1571875200,1572220800,Brian Ochoa
+Maintenance,Mechanical,6162 Lara Road Apt. 405,1.16 acres,Lucero-Rich,6977 Ward Glens Dale,1571875200,1572652800,Lauren Ayala
+Maintenance,Electrical,1306 Morris Haven Apt. 328,0.96 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571875200,1572480000,Lauren Ayala
+Maintenance,Mechanical,61186 Johnathan Prairie Suite 979,1.47 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1571875200,1572825600,Edward Woods
+Building,New Construction,62155 Sharon Estates,0.62 acres,Lawson Group,5562 Deleon Isle Expressway,1571875200,1572652800,Stephanie White
+Building,Rennovation,573 David Loop,0.99 acres,Roth-Garcia,5547 Schroeder Glens Courts,1571961600,1573257600,Brian Ochoa
+Maintenance,Electrical,09035 Little Harbors Apt. 825,1.82 acres,Mercado and Sons,8410 Katie Heights Flats,1571961600,1572652800,Edward Woods
+Building,New Construction,920 Brandon Vista Suite 287,1.81 acres,Lucero-Rich,6977 Ward Glens Dale,1571961600,1572652800,Edward Woods
+Maintenance,Plumbing,2084 Doyle Trail Suite 358,1.55 acres,Mercado and Sons,8410 Katie Heights Flats,1571961600,1572912000,Stephanie White
+Building,Rennovation,4629 Cordova Prairie,0.67 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572048000,1573862400,Edward Woods
+Building,New Construction,2271 Hayes Coves,1.34 acres,Mercado and Sons,8410 Katie Heights Flats,1572048000,1572825600,Brian Ochoa
+Building,Rennovation,78385 Brittany Junctions Suite 870,0.38 acres,Mercado and Sons,8410 Katie Heights Flats,1572220800,1574035200,Stephanie White
+Maintenance,Plumbing,154 Margaret Forges Suite 131,1.03 acres,Lucero-Rich,6977 Ward Glens Dale,1572220800,1573084800,Stephanie White
+Building,Rennovation,820 Villa Court Apt. 307,1.38 acres,Quinn Inc,7398 Young Meadow Falls,1572307200,1574467200,Lauren Ayala
+Maintenance,Electrical,367 Morris Walk,1.98 acres,Reese Ltd,2506 Johnson Garden Run,1572307200,1572825600,Brian Ochoa
+Maintenance,Plumbing,2694 Kyle Ville Suite 079,1.02 acres,Reese Ltd,2506 Johnson Garden Run,1572307200,1573171200,Stephanie White
+Maintenance,Plumbing,085 Smith Common Apt. 907,1.07 acres,Bray Ltd,6147 Amanda Center Pines,1572393600,1573344000,Stephanie White
+Building,New Construction,15368 Mcpherson Lodge Apt. 903,1.58 acres,Quinn Inc,7398 Young Meadow Falls,1572393600,1573084800,Brian Ochoa
+Building,Rennovation,879 Bradley Union Suite 390,1.54 acres,Quinn Inc,7398 Young Meadow Falls,1572393600,1574726400,Stephanie White
+Building,Rennovation,28918 Snow Heights,1.01 acres,Mercado and Sons,8410 Katie Heights Flats,1572393600,1574640000,Brian Ochoa
+Maintenance,Mechanical,5802 Woods Row Apt. 054,1.17 acres,Roth-Garcia,5547 Schroeder Glens Courts,1572393600,1573171200,Brian Ochoa
+Maintenance,Plumbing,559 Padilla Lodge Apt. 114,1.35 acres,Blair-Williams,2618 Marshall Summit Passage,1572393600,1572912000,Edward Woods
+Maintenance,Electrical,334 Graham Parkways,1.58 acres,Roth-Garcia,5547 Schroeder Glens Courts,1572480000,1573516800,Stephanie White
+Maintenance,Electrical,792 Eric Estate,1.04 acres,Reese Ltd,2506 Johnson Garden Run,1572480000,1573257600,Lauren Ayala
+Maintenance,Electrical,535 Matthew Stravenue,0.81 acres,Quinn Inc,7398 Young Meadow Falls,1572480000,1573084800,Lauren Ayala
+Building,New Construction,54713 Flores Circles Suite 286,1.73 acres,Lawson Group,5562 Deleon Isle Expressway,1572480000,1573257600,Lauren Ayala
+Maintenance,Mechanical,81210 Robert Roads,1.33 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572480000,1573084800,Brian Ochoa
+Building,New Construction,2515 Benjamin Loop Suite 965,1.17 acres,Lawson Group,5562 Deleon Isle Expressway,1572480000,1573344000,Stephanie White
+Maintenance,Mechanical,0080 Scott Tunnel,1.26 acres,Roth-Garcia,5547 Schroeder Glens Courts,1572480000,1573516800,Stephanie White
+Maintenance,Electrical,68891 George Forest Suite 679,0.81 acres,Roth-Garcia,5547 Schroeder Glens Courts,1572480000,1573171200,Lauren Ayala
+Maintenance,Electrical,390 Linda Fort,3.06 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572480000,1573603200,Edward Woods
+Maintenance,Electrical,26137 Thomas Via,0.99 acres,Roth-Garcia,5547 Schroeder Glens Courts,1572566400,1573084800,Brian Ochoa
+Maintenance,Electrical,64022 Atkins Fall,0.42 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572566400,1572998400,Brian Ochoa
+Maintenance,Plumbing,7745 Goodwin Manor Apt. 407,0.74 acres,Reese Ltd,2506 Johnson Garden Run,1572652800,1573344000,Edward Woods
+Building,New Construction,57094 Robert Knolls Apt. 196,1.75 acres,Blair-Williams,2618 Marshall Summit Passage,1572739200,1573430400,Brian Ochoa
+Building,Rennovation,84883 Lisa View Apt. 760,1.37 acres,Quinn Inc,7398 Young Meadow Falls,1572739200,1574467200,Brian Ochoa
+Building,New Construction,662 Campbell Passage,0.6 acres,Lawson Group,5562 Deleon Isle Expressway,1572739200,1573516800,Stephanie White
+Building,Rennovation,0078 Wilkerson Estates,0.95 acres,Lawson Group,5562 Deleon Isle Expressway,1572825600,1574985600,Stephanie White
+Maintenance,Plumbing,919 Shannon Rue Suite 075,1.51 acres,Reese Ltd,2506 Johnson Garden Run,1572825600,1573430400,Lauren Ayala
+Maintenance,Plumbing,76835 April Orchard Suite 104,0.46 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572912000,1573344000,Brian Ochoa
+Building,Rennovation,71937 Nelson Place,1.17 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572912000,1574899200,Edward Woods
+Maintenance,Mechanical,0611 Jefferson Unions Apt. 266,1.03 acres,Blair-Williams,2618 Marshall Summit Passage,1572998400,1573948800,Lauren Ayala
+Building,Rennovation,967 Perez Wall,0.99 acres,Reese Ltd,2506 Johnson Garden Run,1572998400,1574985600,Lauren Ayala
+Maintenance,Mechanical,47845 Vaughan Cliff Apt. 010,1.77 acres,Mercado and Sons,8410 Katie Heights Flats,1572998400,1573776000,Edward Woods
+Maintenance,Plumbing,4004 Hill Motorway Apt. 099,0.97 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1572998400,1573948800,Stephanie White
+Building,New Construction,28813 Gomez Ways,1.06 acres,Lucero-Rich,6977 Ward Glens Dale,1572998400,1573948800,Stephanie White
+Building,New Construction,97947 Linda Wells Suite 215,0.55 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1573084800,1573430400,Brian Ochoa
+Building,New Construction,694 Crosby Junctions Suite 197,1.15 acres,Lawson Group,5562 Deleon Isle Expressway,1573171200,1573948800,Edward Woods
+Building,Rennovation,56069 Leslie Port,1.43 acres,Mercado and Sons,8410 Katie Heights Flats,1573171200,1575504000,Edward Woods
+Maintenance,Mechanical,9693 Tracie Shoal,0.86 acres,Lucero-Rich,6977 Ward Glens Dale,1573171200,1574208000,Stephanie White
+Maintenance,Plumbing,6816 Harvey Isle Apt. 434,1.49 acres,Bray Ltd,6147 Amanda Center Pines,1573171200,1573862400,Lauren Ayala
+Building,Rennovation,88560 Christopher Oval,2.39 acres,Quinn Inc,7398 Young Meadow Falls,1573171200,1575331200,Lauren Ayala
+Building,Rennovation,1812 Robert Harbor,1.48 acres,Mercado and Sons,8410 Katie Heights Flats,1573257600,1575676800,Stephanie White
+Maintenance,Mechanical,33902 Michelle Points,1.63 acres,Blair-Williams,2618 Marshall Summit Passage,1573257600,1573948800,Edward Woods
+Maintenance,Plumbing,93220 Crystal Valley,0.7 acres,Lawson Group,5562 Deleon Isle Expressway,1573257600,1573689600,Lauren Ayala
+Building,Rennovation,01808 Ronald Burg,0.52 acres,Mercado and Sons,8410 Katie Heights Flats,1573257600,1575158400,Stephanie White
+Building,New Construction,6435 Brian Glens,0.67 acres,Quinn Inc,7398 Young Meadow Falls,1573430400,1574035200,Brian Ochoa
+Maintenance,Plumbing,26241 Quinn Canyon Apt. 641,0.89 acres,Blair-Williams,2618 Marshall Summit Passage,1573430400,1573862400,Lauren Ayala
+Building,Rennovation,817 Mccarthy Canyon Apt. 134,0.55 acres,Lawson Group,5562 Deleon Isle Expressway,1573516800,1575331200,Lauren Ayala
+Maintenance,Mechanical,398 Ramirez Road Apt. 272,2.62 acres,Lawson Group,5562 Deleon Isle Expressway,1573516800,1574726400,Stephanie White
+Maintenance,Mechanical,6245 Vasquez Spurs,1.37 acres,Lucero-Rich,6977 Ward Glens Dale,1573603200,1574380800,Edward Woods
+Maintenance,Electrical,797 Jose Stravenue,1.02 acres,Mercado and Sons,8410 Katie Heights Flats,1573603200,1574380800,Edward Woods
+Building,Rennovation,027 Wade Burg Apt. 690,1.17 acres,Lucero-Rich,6977 Ward Glens Dale,1573689600,1575590400,Brian Ochoa
+Maintenance,Plumbing,107 Kari Ports Apt. 094,0.8 acres,Roth-Garcia,5547 Schroeder Glens Courts,1573689600,1574035200,Lauren Ayala
+Building,New Construction,63645 Matthews Forge,0.49 acres,Bray Ltd,6147 Amanda Center Pines,1573689600,1574467200,Stephanie White
+Maintenance,Plumbing,772 Thompson Lights,2.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1573776000,1574553600,Edward Woods
+Building,New Construction,69009 Jennifer Village Apt. 631,0.46 acres,Bray Ltd,6147 Amanda Center Pines,1573776000,1574208000,Edward Woods
+Maintenance,Electrical,87885 Green Mount Suite 478,1.38 acres,Lawson Group,5562 Deleon Isle Expressway,1573776000,1574812800,Stephanie White
+Building,Rennovation,5279 Mendez Fort Apt. 720,1.74 acres,Blair-Williams,2618 Marshall Summit Passage,1573776000,1576195200,Stephanie White
+Maintenance,Electrical,8377 Michael Ford Apt. 837,0.98 acres,Blair-Williams,2618 Marshall Summit Passage,1573776000,1574467200,Lauren Ayala
+Maintenance,Mechanical,1117 Robin Curve Apt. 977,1.37 acres,Lucero-Rich,6977 Ward Glens Dale,1573776000,1574726400,Stephanie White
+Building,New Construction,6509 Smith Underpass,0.86 acres,Quinn Inc,7398 Young Meadow Falls,1573776000,1574553600,Stephanie White
+Building,New Construction,755 Martin Point Apt. 931,0.74 acres,Mercado and Sons,8410 Katie Heights Flats,1573862400,1574726400,Stephanie White
+Maintenance,Mechanical,69040 Hopkins Island,1.49 acres,Lucero-Rich,6977 Ward Glens Dale,1573862400,1574812800,Edward Woods
+Maintenance,Electrical,3935 Cooley Pass,0.38 acres,Quinn Inc,7398 Young Meadow Falls,1573948800,1574467200,Lauren Ayala
+Maintenance,Plumbing,283 James Unions,0.98 acres,Quinn Inc,7398 Young Meadow Falls,1573948800,1574640000,Stephanie White
+Maintenance,Plumbing,68738 Brown Ford Apt. 621,2.05 acres,Roth-Garcia,5547 Schroeder Glens Courts,1573948800,1574812800,Brian Ochoa
+Building,Rennovation,60785 Kevin Square Apt. 286,1.25 acres,Quinn Inc,7398 Young Meadow Falls,1573948800,1575936000,Brian Ochoa
+Maintenance,Electrical,054 Julia Stream,0.66 acres,Lawson Group,5562 Deleon Isle Expressway,1573948800,1574467200,Brian Ochoa
+Maintenance,Plumbing,13776 Jackson Lakes,0.98 acres,Blair-Williams,2618 Marshall Summit Passage,1574035200,1574553600,Edward Woods
+Building,New Construction,516 Davis Neck Apt. 995,0.87 acres,Lucero-Rich,6977 Ward Glens Dale,1574035200,1574899200,Stephanie White
+Building,New Construction,1215 Mark Via Apt. 003,0.95 acres,Blair-Williams,2618 Marshall Summit Passage,1574121600,1574985600,Stephanie White
+Maintenance,Plumbing,2711 Renee Trail,1.45 acres,Reese Ltd,2506 Johnson Garden Run,1574121600,1574812800,Edward Woods
+Building,New Construction,22703 Robbins Well,1.22 acres,Bray Ltd,6147 Amanda Center Pines,1574121600,1574812800,Brian Ochoa
+Maintenance,Mechanical,284 Donald Dam,1.16 acres,Lawson Group,5562 Deleon Isle Expressway,1574121600,1574899200,Brian Ochoa
+Maintenance,Plumbing,613 Clark Ferry Suite 306,1.4 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1574208000,1575158400,Stephanie White
+Maintenance,Mechanical,2513 Jones Knolls Suite 617,1.29 acres,Roth-Garcia,5547 Schroeder Glens Courts,1574208000,1575158400,Stephanie White
+Maintenance,Mechanical,57438 Saunders Road,1.92 acres,Blair-Williams,2618 Marshall Summit Passage,1574208000,1574985600,Brian Ochoa
+Maintenance,Electrical,68909 Emily Shore Suite 931,0.69 acres,Lucero-Rich,6977 Ward Glens Dale,1574208000,1574640000,Brian Ochoa
+Building,New Construction,857 Jason Lodge,1.69 acres,Reese Ltd,2506 Johnson Garden Run,1574208000,1575244800,Stephanie White
+Building,New Construction,541 Denise Ridge Suite 429,1.15 acres,Bray Ltd,6147 Amanda Center Pines,1574208000,1574985600,Lauren Ayala
+Building,Rennovation,1321 Brenda Groves,1.02 acres,Lucero-Rich,6977 Ward Glens Dale,1574294400,1576368000,Edward Woods
+Maintenance,Mechanical,89962 Ramos Greens Suite 413,1.53 acres,Lucero-Rich,6977 Ward Glens Dale,1574294400,1575072000,Edward Woods
+Maintenance,Plumbing,038 Scott Mountain,1.11 acres,Lucero-Rich,6977 Ward Glens Dale,1574294400,1574985600,Lauren Ayala
+Maintenance,Plumbing,8125 Macdonald Pike Suite 478,1.15 acres,Quinn Inc,7398 Young Meadow Falls,1574380800,1574899200,Brian Ochoa
+Maintenance,Electrical,6699 Barton Bridge Apt. 100,0.88 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1574467200,1574985600,Lauren Ayala
+Building,Rennovation,2128 Norris Plains,0.94 acres,Quinn Inc,7398 Young Meadow Falls,1574467200,1576108800,Edward Woods
+Building,Rennovation,57679 Kevin Wells Apt. 307,1.42 acres,Roth-Garcia,5547 Schroeder Glens Courts,1574467200,1576454400,Lauren Ayala
+Maintenance,Electrical,489 Tate Canyon Suite 737,1.83 acres,Quinn Inc,7398 Young Meadow Falls,1574553600,1575590400,Stephanie White
+Maintenance,Electrical,6976 Roy Lights,0.64 acres,Mercado and Sons,8410 Katie Heights Flats,1574553600,1575158400,Lauren Ayala
+Building,Rennovation,077 Laura Station,0.78 acres,Bray Ltd,6147 Amanda Center Pines,1574553600,1576108800,Brian Ochoa
+Maintenance,Mechanical,877 Smith Place,0.67 acres,Lucero-Rich,6977 Ward Glens Dale,1574640000,1575158400,Lauren Ayala
+Building,Rennovation,2647 Everett Green,1.06 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1574640000,1576800000,Stephanie White
+Building,New Construction,82015 Cole Ramp Suite 088,2.02 acres,Reese Ltd,2506 Johnson Garden Run,1574640000,1575676800,Edward Woods
+Maintenance,Mechanical,5089 Marshall Avenue Suite 946,1.36 acres,Roth-Garcia,5547 Schroeder Glens Courts,1574640000,1575504000,Edward Woods
+Maintenance,Mechanical,2025 Caleb Club,1.43 acres,Mercado and Sons,8410 Katie Heights Flats,1574726400,1575331200,Brian Ochoa
+Maintenance,Electrical,0162 Gilmore Path Apt. 960,2.42 acres,Lawson Group,5562 Deleon Isle Expressway,1574726400,1575590400,Brian Ochoa
+Maintenance,Mechanical,958 Barnes Dam Suite 738,0.77 acres,Bray Ltd,6147 Amanda Center Pines,1574726400,1575158400,Brian Ochoa
+Maintenance,Plumbing,403 Marks Common,0.99 acres,Mercado and Sons,8410 Katie Heights Flats,1574726400,1575676800,Stephanie White
+Building,New Construction,035 Moreno Radial,0.71 acres,Lucero-Rich,6977 Ward Glens Dale,1574812800,1575331200,Edward Woods
+Maintenance,Plumbing,5988 Nancy Corners,1.85 acres,Quinn Inc,7398 Young Meadow Falls,1574812800,1575504000,Edward Woods
+Building,New Construction,24850 Bennett Bypass Suite 985,0.99 acres,Blair-Williams,2618 Marshall Summit Passage,1574812800,1575417600,Lauren Ayala
+Building,New Construction,718 Mark Club,0.98 acres,Mercado and Sons,8410 Katie Heights Flats,1574812800,1575331200,Brian Ochoa
+Maintenance,Mechanical,704 Kevin Hills,0.61 acres,Roth-Garcia,5547 Schroeder Glens Courts,1574812800,1575590400,Stephanie White
+Maintenance,Mechanical,802 Davidson Crossroad,1.32 acres,Mercado and Sons,8410 Katie Heights Flats,1574812800,1575590400,Lauren Ayala
+Maintenance,Mechanical,5816 Mark Heights,0.98 acres,Roth-Garcia,5547 Schroeder Glens Courts,1574899200,1575676800,Stephanie White
+Building,Rennovation,7216 Love Views Suite 017,0.77 acres,Mercado and Sons,8410 Katie Heights Flats,1574899200,1576627200,Brian Ochoa
+Maintenance,Mechanical,2238 Christina Islands,0.91 acres,Mercado and Sons,8410 Katie Heights Flats,1574985600,1575504000,Edward Woods
+Building,Rennovation,9667 Latasha Cliff Apt. 021,1.54 acres,Mercado and Sons,8410 Katie Heights Flats,1574985600,1577145600,Stephanie White
+Maintenance,Electrical,534 Dean Creek,1.38 acres,Reese Ltd,2506 Johnson Garden Run,1574985600,1575676800,Edward Woods
+Maintenance,Electrical,9760 Thompson Crossing,1.26 acres,Lucero-Rich,6977 Ward Glens Dale,1574985600,1575763200,Edward Woods
+Maintenance,Mechanical,572 Harper Glen,1.95 acres,Blair-Williams,2618 Marshall Summit Passage,1575072000,1575936000,Edward Woods
+Building,New Construction,41763 Karen Locks Apt. 200,1.46 acres,Quinn Inc,7398 Young Meadow Falls,1575072000,1575849600,Brian Ochoa
+Maintenance,Plumbing,882 Janet Plain Apt. 556,1.6 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575072000,1575849600,Lauren Ayala
+Maintenance,Plumbing,23987 William Points,1.82 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575072000,1576022400,Stephanie White
+Maintenance,Mechanical,2287 Golden Valleys,1.4 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575158400,1575763200,Brian Ochoa
+Maintenance,Mechanical,42059 Jackson Estates,1.09 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575158400,1575936000,Edward Woods
+Maintenance,Electrical,44518 Ellis Forges,0.68 acres,Blair-Williams,2618 Marshall Summit Passage,1575158400,1575763200,Brian Ochoa
+Maintenance,Plumbing,34675 Smith Well,2.02 acres,Reese Ltd,2506 Johnson Garden Run,1575244800,1576108800,Edward Woods
+Maintenance,Plumbing,252 Tara Cliff Suite 139,0.91 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575244800,1575936000,Edward Woods
+Maintenance,Plumbing,8196 Kyle Mall Suite 379,1.25 acres,Bray Ltd,6147 Amanda Center Pines,1575331200,1576281600,Stephanie White
+Maintenance,Electrical,40567 Nicole Shoals Apt. 343,0.59 acres,Mercado and Sons,8410 Katie Heights Flats,1575331200,1575849600,Edward Woods
+Building,Rennovation,074 Yvonne Union,0.94 acres,Lucero-Rich,6977 Ward Glens Dale,1575417600,1577145600,Lauren Ayala
+Maintenance,Mechanical,4428 Wilkinson Freeway,1.08 acres,Lucero-Rich,6977 Ward Glens Dale,1575417600,1576627200,Stephanie White
+Building,Rennovation,4214 Glenn Mountains,1.01 acres,Lawson Group,5562 Deleon Isle Expressway,1575417600,1577145600,Brian Ochoa
+Maintenance,Electrical,026 Robert Locks,1.74 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575504000,1576195200,Brian Ochoa
+Maintenance,Plumbing,69024 Barbara Rest,0.87 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575504000,1576022400,Edward Woods
+Maintenance,Electrical,49571 Kelsey Valleys,0.86 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575504000,1576281600,Stephanie White
+Building,New Construction,68530 Wallace Skyway Suite 175,0.91 acres,Reese Ltd,2506 Johnson Garden Run,1575504000,1576108800,Edward Woods
+Maintenance,Electrical,420 Misty Rue,1.19 acres,Lawson Group,5562 Deleon Isle Expressway,1575504000,1576540800,Stephanie White
+Maintenance,Mechanical,1905 Hernandez Extension Apt. 949,1.35 acres,Quinn Inc,7398 Young Meadow Falls,1575504000,1576281600,Edward Woods
+Building,New Construction,4159 Roy Parkway,1.11 acres,Lawson Group,5562 Deleon Isle Expressway,1575590400,1576454400,Stephanie White
+Maintenance,Electrical,819 Ryan Summit,1.13 acres,Quinn Inc,7398 Young Meadow Falls,1575676800,1576368000,Edward Woods
+Building,New Construction,070 James Prairie Suite 031,0.89 acres,Blair-Williams,2618 Marshall Summit Passage,1575676800,1576540800,Stephanie White
+Building,New Construction,30174 Bennett Parks Apt. 582,0.91 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575676800,1576195200,Lauren Ayala
+Maintenance,Plumbing,960 Jose Plaza Suite 901,2.14 acres,Quinn Inc,7398 Young Meadow Falls,1575676800,1576713600,Stephanie White
+Building,New Construction,7532 Katie Square Apt. 629,0.83 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575763200,1576281600,Brian Ochoa
+Maintenance,Mechanical,1963 Timothy Roads,2.21 acres,Blair-Williams,2618 Marshall Summit Passage,1575763200,1576627200,Brian Ochoa
+Maintenance,Mechanical,1927 Amanda Underpass Apt. 883,0.77 acres,Mercado and Sons,8410 Katie Heights Flats,1575849600,1576454400,Lauren Ayala
+Building,New Construction,8517 Roberto Spring Suite 186,1.48 acres,Lawson Group,5562 Deleon Isle Expressway,1575849600,1576540800,Lauren Ayala
+Maintenance,Plumbing,713 Williams Island,1.19 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575849600,1576540800,Edward Woods
+Maintenance,Mechanical,407 Diana Knolls Suite 664,1.48 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575849600,1576713600,Brian Ochoa
+Building,New Construction,183 Mathew Run,1.29 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575849600,1576886400,Stephanie White
+Building,Rennovation,3854 Hutchinson Prairie,1.11 acres,Reese Ltd,2506 Johnson Garden Run,1575849600,1578182400,Stephanie White
+Maintenance,Electrical,626 Austin Branch,1.23 acres,Lawson Group,5562 Deleon Isle Expressway,1575849600,1576627200,Edward Woods
+Maintenance,Plumbing,061 Smith Path Apt. 464,1.54 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1575849600,1576540800,Edward Woods
+Maintenance,Plumbing,642 Craig Avenue Suite 126,1.56 acres,Roth-Garcia,5547 Schroeder Glens Courts,1575936000,1576713600,Lauren Ayala
+Building,Rennovation,54001 Thomas Summit,1.2 acres,Lawson Group,5562 Deleon Isle Expressway,1575936000,1578182400,Edward Woods
+Building,New Construction,7672 Amy Spur Apt. 855,1.03 acres,Bray Ltd,6147 Amanda Center Pines,1575936000,1576627200,Brian Ochoa
+Building,New Construction,2293 Yang Village Apt. 198,0.84 acres,Lawson Group,5562 Deleon Isle Expressway,1575936000,1576713600,Stephanie White
+Building,Rennovation,1046 Randall Ridge,0.51 acres,Lucero-Rich,6977 Ward Glens Dale,1576022400,1577577600,Lauren Ayala
+Maintenance,Mechanical,0816 Bennett Ramp Suite 876,0.88 acres,Bray Ltd,6147 Amanda Center Pines,1576022400,1576886400,Stephanie White
+Maintenance,Plumbing,9830 Gregory Mills,0.55 acres,Mercado and Sons,8410 Katie Heights Flats,1576108800,1576627200,Lauren Ayala
+Building,New Construction,07909 Clark Village Suite 633,1.41 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576108800,1577145600,Stephanie White
+Maintenance,Plumbing,86669 Sarah Vista,0.77 acres,Roth-Garcia,5547 Schroeder Glens Courts,1576195200,1576627200,Brian Ochoa
+Building,Rennovation,21428 Felicia Centers Apt. 130,1.14 acres,Blair-Williams,2618 Marshall Summit Passage,1576195200,1578009600,Edward Woods
+Building,New Construction,29539 Bryant Station,0.56 acres,Lawson Group,5562 Deleon Isle Expressway,1576195200,1576627200,Edward Woods
+Building,New Construction,759 Johnston Unions,0.97 acres,Reese Ltd,2506 Johnson Garden Run,1576195200,1576886400,Lauren Ayala
+Maintenance,Plumbing,101 Rodriguez Ville,2.37 acres,Lucero-Rich,6977 Ward Glens Dale,1576281600,1577059200,Edward Woods
+Building,Rennovation,13266 Anthony Roads,0.68 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576368000,1578441600,Stephanie White
+Building,Rennovation,473 Brown Square,0.92 acres,Blair-Williams,2618 Marshall Summit Passage,1576368000,1578355200,Lauren Ayala
+Maintenance,Plumbing,0123 Huffman Island Suite 211,0.61 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576368000,1576886400,Lauren Ayala
+Maintenance,Mechanical,1098 Timothy Stream Suite 265,0.47 acres,Mercado and Sons,8410 Katie Heights Flats,1576368000,1577059200,Lauren Ayala
+Maintenance,Mechanical,2570 Tucker Tunnel Suite 534,0.9 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576454400,1577145600,Brian Ochoa
+Maintenance,Mechanical,7687 Cook Lights,1.99 acres,Mercado and Sons,8410 Katie Heights Flats,1576454400,1577145600,Edward Woods
+Maintenance,Mechanical,8785 Tina Estates Suite 929,1.29 acres,Mercado and Sons,8410 Katie Heights Flats,1576454400,1577059200,Brian Ochoa
+Maintenance,Electrical,946 Cassidy Causeway,1.84 acres,Blair-Williams,2618 Marshall Summit Passage,1576454400,1577232000,Brian Ochoa
+Maintenance,Electrical,03589 George Spurs,1.29 acres,Lawson Group,5562 Deleon Isle Expressway,1576540800,1577318400,Lauren Ayala
+Building,New Construction,67349 Christina Islands Apt. 197,0.93 acres,Lawson Group,5562 Deleon Isle Expressway,1576627200,1576972800,Brian Ochoa
+Maintenance,Mechanical,581 Yesenia Forest,1.15 acres,Lawson Group,5562 Deleon Isle Expressway,1576627200,1577664000,Stephanie White
+Building,New Construction,9620 Glenn Fall Suite 390,0.87 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576627200,1577145600,Lauren Ayala
+Building,Rennovation,833 Wendy Turnpike,0.44 acres,Lawson Group,5562 Deleon Isle Expressway,1576627200,1578355200,Lauren Ayala
+Maintenance,Mechanical,2453 Lopez Parks,1.63 acres,Blair-Williams,2618 Marshall Summit Passage,1576627200,1577404800,Edward Woods
+Building,Rennovation,071 Wilson Summit Apt. 921,1.05 acres,Lawson Group,5562 Deleon Isle Expressway,1576713600,1578528000,Brian Ochoa
+Maintenance,Mechanical,1485 Michael Harbors,2.16 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576713600,1577664000,Edward Woods
+Building,New Construction,00887 Stone Junction Apt. 669,1.04 acres,Bray Ltd,6147 Amanda Center Pines,1576713600,1577491200,Lauren Ayala
+Building,Rennovation,151 Jones Divide,0.79 acres,Quinn Inc,7398 Young Meadow Falls,1576800000,1578787200,Brian Ochoa
+Building,Rennovation,52957 Walker Dam Suite 797,0.9 acres,Bray Ltd,6147 Amanda Center Pines,1576886400,1578700800,Edward Woods
+Maintenance,Plumbing,350 Evans Prairie,0.64 acres,Quinn Inc,7398 Young Meadow Falls,1576886400,1577577600,Stephanie White
+Maintenance,Plumbing,72324 Hall Hill Suite 923,0.96 acres,Blair-Williams,2618 Marshall Summit Passage,1576886400,1577664000,Stephanie White
+Building,New Construction,82714 Alvarado Mission Apt. 470,0.54 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1576886400,1577232000,Brian Ochoa
+Building,New Construction,134 Jeff Pass Apt. 767,1.11 acres,Roth-Garcia,5547 Schroeder Glens Courts,1576972800,1577750400,Lauren Ayala
+Maintenance,Electrical,828 Mike Oval,1.03 acres,Bray Ltd,6147 Amanda Center Pines,1577059200,1577750400,Lauren Ayala
+Maintenance,Electrical,0573 Coffey Turnpike,0.88 acres,Lucero-Rich,6977 Ward Glens Dale,1577059200,1577923200,Stephanie White
+Building,New Construction,6129 Li Squares,0.93 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1577059200,1577750400,Lauren Ayala
+Building,Rennovation,0618 Jacob Hollow,1.11 acres,Mercado and Sons,8410 Katie Heights Flats,1577059200,1579132800,Lauren Ayala
+Maintenance,Plumbing,11352 Erin Ports Suite 740,1.23 acres,Blair-Williams,2618 Marshall Summit Passage,1577059200,1578009600,Stephanie White
+Building,New Construction,49290 Rodriguez Glens,0.66 acres,Bray Ltd,6147 Amanda Center Pines,1577145600,1577664000,Brian Ochoa
+Maintenance,Plumbing,041 Martin Isle,0.86 acres,Lucero-Rich,6977 Ward Glens Dale,1577145600,1577577600,Lauren Ayala
+Maintenance,Plumbing,782 Jeremiah Road Apt. 932,0.98 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1577145600,1577836800,Stephanie White
+Maintenance,Electrical,890 Cynthia Plain,1.27 acres,Blair-Williams,2618 Marshall Summit Passage,1577232000,1578096000,Lauren Ayala
+Maintenance,Mechanical,348 Hill Springs,0.61 acres,Blair-Williams,2618 Marshall Summit Passage,1577232000,1577923200,Lauren Ayala
+Building,New Construction,3166 Jacob Extension,1.15 acres,Lawson Group,5562 Deleon Isle Expressway,1577318400,1578268800,Stephanie White
+Maintenance,Electrical,51713 Michael Crossroad Apt. 037,1.32 acres,Lucero-Rich,6977 Ward Glens Dale,1577318400,1578096000,Lauren Ayala
+Building,Rennovation,47953 Jeremiah Run Apt. 868,0.78 acres,Lucero-Rich,6977 Ward Glens Dale,1577318400,1579305600,Edward Woods
+Building,New Construction,8864 Justin Summit,0.46 acres,Mercado and Sons,8410 Katie Heights Flats,1577404800,1578009600,Lauren Ayala
+Maintenance,Plumbing,45666 Smith Isle,0.87 acres,Quinn Inc,7398 Young Meadow Falls,1577404800,1578096000,Edward Woods
+Maintenance,Mechanical,707 Torres Light Apt. 031,1.11 acres,Bray Ltd,6147 Amanda Center Pines,1577404800,1578528000,Stephanie White
+Building,New Construction,38324 Richard Rue Suite 111,0.71 acres,Mercado and Sons,8410 Katie Heights Flats,1577491200,1578355200,Stephanie White
+Building,Rennovation,8495 Wanda Trail Suite 639,1.16 acres,Bray Ltd,6147 Amanda Center Pines,1577491200,1579305600,Edward Woods
+Maintenance,Plumbing,2453 Madden Hills,0.91 acres,Reese Ltd,2506 Johnson Garden Run,1577491200,1578009600,Lauren Ayala
+Maintenance,Electrical,66307 Harvey Gateway Suite 762,1.55 acres,Quinn Inc,7398 Young Meadow Falls,1577491200,1578268800,Lauren Ayala
+Building,New Construction,957 Joseph Shores Apt. 806,0.96 acres,Bray Ltd,6147 Amanda Center Pines,1577577600,1578441600,Stephanie White
+Building,New Construction,238 Hall Street Suite 381,0.96 acres,Reese Ltd,2506 Johnson Garden Run,1577664000,1578614400,Stephanie White
+Maintenance,Mechanical,3592 Mary Forges,1.11 acres,Bray Ltd,6147 Amanda Center Pines,1577664000,1578528000,Brian Ochoa
+Maintenance,Mechanical,71768 Rivera Flats,1.17 acres,Reese Ltd,2506 Johnson Garden Run,1577664000,1578528000,Edward Woods
+Building,Rennovation,653 Marisa Place,0.63 acres,Mercado and Sons,8410 Katie Heights Flats,1577664000,1579996800,Stephanie White
+Building,New Construction,0496 Burke Pine,1.36 acres,Quinn Inc,7398 Young Meadow Falls,1577750400,1578441600,Brian Ochoa
+Building,New Construction,415 Brian Loaf,0.65 acres,Ford-Delacruz,9609 Santiago Bypass Crossroad,1577750400,1578355200,Lauren Ayala
+Building,Rennovation,9667 Wheeler Pine Apt. 166,1.03 acres,Bray Ltd,6147 Amanda Center Pines,1577750400,1579910400,Edward Woods
+Maintenance,Plumbing,3322 Carter Meadow,2.1 acres,Quinn Inc,7398 Young Meadow Falls,1577750400,1578441600,Brian Ochoa
+Maintenance,Mechanical,771 Ashley Tunnel,1.18 acres,Roth-Garcia,5547 Schroeder Glens Courts,1577750400,1578873600,Stephanie White
